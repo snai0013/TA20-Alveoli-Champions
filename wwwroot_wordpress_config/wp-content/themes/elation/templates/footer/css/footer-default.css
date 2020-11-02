@@ -1,0 +1,81 @@
+/*--------------------------------------------------------------
+# Footer Styling
+--------------------------------------------------------------*/
+.elation-footer-default {
+    text-align: center;
+}
+.elation-bgheader-img {
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.elation-footer-default .site-footer-widgets {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.elation-footer-default .site-footer-widgets.elation-footalign-top {
+    align-items: flex-start;
+}
+.elation-footer-default .site-footer-widgets.elation-footalign-middle {
+    align-items: center;
+}
+.elation-footer-default .site-footer-widgets.elation-footalign-bottom {
+    align-items: flex-end;
+}
+.elation-footer-default .site-footer-widgets.elation-footalign-stretch {
+    align-items: stretch;
+}
+.elation-footer-default .site-footer-widgets .footer-custom-block {
+    flex: 1;
+    padding: 0 20px;
+    text-align: left;
+    position: relative;
+}
+.elation-footer-default .site-footer-widgets .footer-custom-block:first-child {
+    padding-left: 0 !important;
+}
+.elation-footer-default .site-footer-widgets .footer-custom-block:last-child {
+    padding-right: 0 !important;
+}
+
+.elation-footdivide-line .footer-custom-block {
+    box-shadow: 1px 0 0 rgba(0, 0, 0, 0.12);
+}
+.elation-footdivide-line .footer-custom-block:last-child {
+    box-shadow: none;
+}
+.footer-custom-block li {
+    margin-bottom: 15px;
+}
+.footer-custom-block li:last-child {
+    margin-bottom: 0 !important;
+}
+
+.elation-footdivide-shortline .footer-custom-block::after {
+    display: block;
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 0;
+    height: 60px;
+    width: 2px;
+    margin: -30px 0 0;
+}
+.elation-footdivide-shortline .footer-custom-block:last-child::after {
+    display: none;
+}
+
+.elation-footdivide-shortdots .footer-custom-block::after {
+    display: block;
+    border-left: 1px dashed rgba(0, 0, 0, 0.18);
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 0;
+    height: 60px;
+    margin: -30px 0 0;
+}
+.elation-footdivide-shortdots .footer-custom-block:last-child::after {
+    display: none;
+}

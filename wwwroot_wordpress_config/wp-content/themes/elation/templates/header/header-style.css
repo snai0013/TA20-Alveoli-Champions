@@ -1,0 +1,230 @@
+/*--------------------------------------------------------------
+# Header Styling
+--------------------------------------------------------------*/
+/* -- Standard -- */
+.site-header.site-header-standard {
+    position: relative;
+}
+.site-header.site-header-standard .site-header-wrap  {
+    display: flex;
+    align-items: stretch;
+    position: relative;
+}
+.site-header.site-header-standard .site-header-main {
+    flex: 1;
+    position: relative;
+    z-index: 4;
+}
+.site-header.site-header-standard .main-navigation {
+    flex: 2.8;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+    z-index: 4;
+}
+.site-header.site-header-standard .main-navigation .site-container {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    order: 2;
+}
+.site-header.site-header-standard .main-navigation .menu-main-menu-container {
+    order: 1;
+}
+.site-header.site-header-standard .site-title {
+    font-size: 54px;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 1.8px;
+    margin-bottom: 4px;
+}
+.site-header.site-header-standard .site-description {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    line-height: 1;
+}
+.site-header.site-header-standard .site-branding {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.site-header.site-header-standard .main-navigation a {
+    padding: 40px 18px;
+}
+.site-header.site-header-standard .main-navigation .menu-toggle {
+    text-align: right;
+    width: auto;
+}
+.site-header .site-stick-header.stick-header.stuck .main-navigation a,
+.site-header.site-header-standard .main-navigation ul ul a {
+    padding: 12px 18px;
+}
+/* -- Centered -- */
+.site-header.site-header-centered .site-header-wrap  {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.site-header.site-header-centered .site-header-main {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    position: relative;
+    z-index: 5;
+}
+.site-header.site-header-centered .main-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    z-index: 5;
+}
+.site-header.site-header-centered .main-navigation .site-container {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    order: 2;
+}
+.site-header.site-header-centered .main-navigation .menu-main-menu-container {
+    order: 1;
+}
+.site-header.site-header-centered .site-header-main .site-header-main-inner {
+    display: flex;
+    justify-content: center;
+}
+.site-header.site-header-centered .site-header-main.align-left .site-header-main-inner {
+    justify-content: flex-start;
+}
+.site-header.site-header-centered .site-header-main.align-right .site-header-main-inner {
+    justify-content: flex-end;
+}
+.site-header.site-header-centered .site-title {
+    font-size: 66px;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin-bottom: 4px;
+}
+.site-header.site-header-centered .site-description {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1;
+}
+.site-header.site-header-centered .main-navigation.main-nav-full-width > .site-container {
+    padding: 0;
+}
+.site-header.site-header-centered .main-navigation.main-nav-full-width .menu-main-menu-container {
+    flex: 1;
+}
+.site-header.site-header-centered .main-navigation.main-nav-full-width button.header-search {
+    width: 80px;
+}
+.elation-search-slide .site-header-centered .site-header-wrap .header-search-block,
+.elation-search-fade .site-header-centered .site-header-wrap .header-search-block {
+    right: auto;
+    width: 40%;
+    left: 30%;
+    z-index: 4;
+}
+
+.site-header .site-bar {
+    position: relative;
+    z-index: 6;
+}
+.show-site-search .elation-search-slide .site-header-topbar .header-search-block {
+    z-index: 6;
+}
+
+/* -------- Mobile Drop Down Menu -------- */
+body.elation-menu-dropdown .site-header.site-header-centered .main-navigation .site-container {
+    flex-direction: column;
+}
+
+/* -------- Sticky - Logo & Navigation -------- */
+.site-stick-header.stick-header {
+    top: -180px;
+
+    -webkit-transition: all 0.4s ease 0.2s;
+     -moz-transition: all 0.4s ease 0.2s;
+      -ms-transition: all 0.4s ease 0.2s;
+       -o-transition: all 0.4s ease 0.2s;
+          transition: all 0.4s ease 0.2s;
+}
+.site-stick-header.stick-header.stuck {
+    background-color: #FFF;
+    box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.14) inset;
+    position: fixed;
+    top: -180px;
+    /* left: 0; */
+    width: 100%;
+    z-index: 99999;
+}
+.site-stick-header.stick-header.stuck .site-stick-inner {
+    max-width: 1200px;
+    margin: 0 auto 1px;
+    padding: 0 20px;
+}
+.site-stick-header.stick-header.stuck .site-header-wrap {
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+}
+.site-header.stick-logonav-botalign .site-stick-header.stick-header.stuck .site-header-wrap {
+    align-items: flex-end;
+}
+.site-stick-header.stick-header.stuck .site-header-wrap .site-header-main {
+    flex: 1;
+    text-align: left;
+    padding: 0;
+}
+.site-stick-header.stick-header.stuck .site-header-main .site-header-main-inner {
+    display: block;
+    justify-content: initial;
+    padding: 0;
+}
+.site-stick-header.stick-header.stuck .site-header-wrap .site-header-main .site-branding {
+    padding: 10px 0 20px;
+}
+.site-stick-header.stick-header.stuck .site-header-wrap .main-navigation {
+    flex: 2;
+    box-shadow: none;
+    padding: 0;
+}
+.site-header .site-stick-header.stick-header.stuck .main-navigation.main-nav-full-width .menu-main-menu-container {
+    flex: initial;
+}
+.site-header .site-stick-header.stick-header.stuck .main-navigation.main-nav-full-width button.header-search {
+    width: auto;
+    box-shadow: none;
+}
+.site-header .site-stick-header.stick-header.stuck .main-navigation .site-container {
+    justify-content: flex-end;
+    padding: 0;
+}
+.site-header .site-stick-header.stick-header.stuck .site-title {
+    font-size: 38px;
+}
+.site-header .site-stick-header.stick-header.stuck .site-description {
+    font-size: 12px;
+}
+
+.site-stick-header.stick-header.stuck.animate-sticky-header,
+.main-navigation.stick-header.stuck.animate-sticky-header,
+.site-bar.stick-header.stuck.animate-sticky-header {
+    top: 0;
+}
+body.admin-bar .site-stick-header.stick-header.stuck.animate-sticky-header,
+body.admin-bar .main-navigation.stick-header.stuck.animate-sticky-header,
+body.admin-bar .site-bar.stick-header.stuck.animate-sticky-header {
+    top: 32px;
+}
+
+.elation-search-plugin-shortcode .site-header .header-search-block {
+    background: none;
+}

@@ -1,0 +1,17 @@
+/*--------------------------------------------------------------
+# Elation - Responsive Tablet Styling
+--------------------------------------------------------------*/
+.site-bar-left,
+.site-bar-right {
+    flex: 1;
+}
+
+.elation-list.elation-grid-4 article.post,
+.elation-list.elation-grid-4 article.page,
+.elation-list.elation-grid-5 article.post,
+.elation-list.elation-grid-5 article.page,
+
+body.woocommerce ul.products.columns-4 li.product,
+body.woocommerce ul.products.columns-5 li.product {
+    width: 33.3333%;
+}

@@ -1,0 +1,355 @@
+/* ---- Admin Extended Notice ---- */
+.elation-admin-notice.elation-notice-add {
+    position: relative;
+    padding: 15px;
+}
+.elation-admin-notice a.elation-notice-close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: #ababab;
+    font-size: 11px;
+    text-decoration: none;
+}
+.elation-admin-notice a.elation-notice-close::after {
+    background: 0 0;
+    color: #72777c;
+    content: "\f153";
+    font: 400 16px/20px dashicons;
+    height: 20px;
+    text-align: center;
+    position: relative;
+    top: 4px;
+    margin: 0 0 0 4px;
+    width: 20px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.elation-admin-notice a.elation-notice-close:hover::after {
+    color: #c00;
+}
+
+.elation-admin-notice h4,
+.elation-admin-notice h5 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #000;
+}
+.elation-admin-notice p {
+    font-size: 13px;
+    margin: 4px 0 0;
+    color: #72777c;
+}
+.elation-admin-notice-blocks {
+    box-shadow: inset 0 1px rgba(0, 0, 0, 0.18);
+    display: flex;
+    align-items: flex-start;
+    margin: 15px 0 0;
+    padding: 20px 0 5px;
+}
+.elation-admin-notice-block {
+    flex: 1;
+    padding-right: 4%;
+}
+.elation-admin-notice-block p {
+    margin: 5px 0 20px;
+    padding: 0;
+    font-size: 12px;
+    color: #9c9c9c;
+}
+
+@media only screen and (max-width: 980px) {
+    .elation-admin-notice-blocks {
+        flex-direction: column;
+    }
+    .elation-admin-notice-block {
+        padding: 0 0 20px;
+    }
+}
+
+/* ---- Admin Upgrade Page ---- */
+.elation-page-wrap {
+	max-width: 900px;
+    padding: 2.5em 0;
+    margin: auto;
+    text-align: center;
+}
+.elation-page {
+    position: relative;
+    min-width: 255px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    background: #fff;
+}
+.elation-title {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+.elation-title h3 {
+    background-image: url(../images/elation-small.png);
+    background-repeat: no-repeat;
+    background-position: 5px 5px;
+    background-size: 38px;
+    flex: 1;
+    text-align: left;
+    padding: 15px 0 15px 50px;
+    margin: 0;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.elation-title a.dashicons-admin-users {
+    display: block;
+    width: 20px;
+    padding: 14px;
+    box-shadow: -1px 0 0 #EEE;
+    color: inherit;
+}
+.elation-content {
+    padding: 50px;
+}
+.elation-content-narrow {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.elation-content h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+}
+p.elation-meaning {
+    font-style: italic;
+    color: #999;
+    font-size: 14px;
+    margin: 15px 0 25px;
+}
+p.elation-meaning a {
+    color: inherit;
+    text-decoration: none;
+}
+.elation-content-view {
+    margin: 35px 0;
+}
+.elation-content-view iframe {
+    box-shadow: 10px 10px 20px rgba(0,0,0,.15);
+}
+.elation-content-view a.button.big {
+    padding: 20px 40px;
+    font-size: 18px;
+    background-color: #9549f5;
+    color: #FFF;
+    border-color: #7326d4;
+}
+.elation-content-view a.button.big:hover {
+    background-color: #7326d4;
+}
+.elation-btns {
+    margin: 22px 0 0;
+}
+.elation-btns a.elation-btn {
+    padding: 12px 10px;
+    min-width: 220px;
+    margin: 0 8px;
+}
+
+.elation-sub-title {
+    display: inline-block;
+    background-image: url(../images/elation-small.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 38px;
+    margin: 60px 0 12px;
+    padding: 10px 0 10px 45px;
+    font-size: 32px;
+}
+.elation-sub-title a {
+    color: inherit;
+    text-decoration: none;
+}
+.elation-content-lower p {
+    max-width: 600px;
+    margin: 0 auto 25px;
+}
+.elation-content-lower h6 {
+    margin: 0 0 20px;
+    padding: 0;
+    font-size: 20px;
+    color: #272d33;
+    font-weight: 500;
+    letter-spacing: 0.4px;
+}
+.elation-content-lower ul {
+    margin: 0 0 40px;
+    padding: 0;
+}
+.elation-content-lower ul li {
+    margin: 0 0 4px;
+    padding: 0;
+    list-style-type: none;
+    font-size: 12px;
+    font-weight: 500;
+    color: #272d33;
+}
+
+.elation-grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px -1%;
+}
+.elation-grid-block {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    background-color: #FFF;
+    width: 31.3333%;
+    margin: 0 1% 15px;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    top: 0;
+    text-decoration: none;
+    color: inherit;
+
+    -webkit-transition: all 0.3s ease 0s;
+     -moz-transition: all 0.3s ease 0s;
+      -ms-transition: all 0.3s ease 0s;
+       -o-transition: all 0.3s ease 0s;
+          transition: all 0.3s ease 0s;
+}
+.elation-grid-block img {
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.18);
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.elation-grid-block h5 {
+    margin: 15px 0 10px;
+    padding: 0 10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #000;
+}
+.elation-grid-block p {
+    margin: 0;
+    padding: 0 20px 10px;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 500;
+    min-height: 55px;
+}
+.elation-grid-block span {
+    display: block;
+    text-transform: uppercase;
+    color: #0287c2;
+    margin: 0 0 15px;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    font-weight: 500;
+}
+.elation-grid-block:hover {
+    box-shadow: 10px 10px 20px rgba(0,0,0,.15);
+    top: -2px;
+}
+
+.elation-pro-links {
+    margin: 40px 0 10px;
+}
+.elation-pro-links a.elation-link {
+    font-size: 18px;
+    margin: 0 30px;
+    text-decoration: none;
+    color: #0377cf;
+}
+.elation-pro-links a.elation-link:hover,
+p.elation-meaning a:hover {
+    text-decoration: underline;
+}
+.elation-pro-links a.elation-link.account {
+    color: #2678ed;
+}
+.elation-pro-links a.elation-link.affiliate {
+    color: #00a13f;
+}
+.elation-pro-links a.elation-link.contact {
+    color: #ffaa00;
+}
+
+/* -- Top Notice / Copy Settings -- */
+.elation-top-notice {
+    margin: 0 0 60px;
+}
+.elation-top-notice h3 {
+    margin: 20px 0;
+    padding: 0;
+    font-size: 28px;
+}
+.elation-top-notice-inner {
+    max-width: 640px;
+    margin: 0 auto;
+}
+.elation-top-notice-inner p {
+    font-size: 14px;
+}
+.elation-top-notice-inner .elation-btns a.elation-btn {
+    min-width: 250px;
+}
+.elation-set-copied {
+    font-size: 16px;
+    color: #07c107;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+.elation-copy-settings-form h6 {
+    margin: 25px 0 18px;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 500;
+    color: #67829f;
+}
+input.elation-copy-from {
+    padding: 4px 10px;
+    width: 140px;
+    margin: 0 8px 0 0;
+}
+input.elation-copy-to {
+    padding: 4px 10px;
+    width: 140px;
+    margin: 0 5px 0 8px;
+}
+.elation-copy-settings-form input.button.button-primary {
+    padding: 4px 10px;
+    min-width: 140px;
+    letter-spacing: 0.5px;
+    font-weight: 300;
+}
+a.elation-dismiss {
+    background: none;
+    border: 0;
+    margin: 10px 0 0 25px;
+    padding: 2px;
+    min-height: initial;
+    line-height: 1;
+    position: absolute;
+    font-size: 11px;
+    color: #999;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+}
+a.elation-dismiss:hover {
+    color: #555;
+    text-decoration: underline;
+}
+.elation-btns a.elation-dismiss {
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 1020px) {
+	
+	
+	
+}
+@media only screen and (max-width: 680px) {
+
+	
+
+}

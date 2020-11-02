@@ -1,0 +1,59 @@
+/*--------------------------------------------------------------
+# Footer Styling
+--------------------------------------------------------------*/
+.elation-footer-social {
+    text-align: center;
+}
+.elation-bgheader-img {
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.elation-footer-social .site-footer-icons {
+    margin: 0 0 15px;
+}
+.elation-footer-social .site-footer-icons .social-icon {
+    display: inline-block;
+    font-size: 44px;
+    margin: 0 10px 15px;
+    color: inherit;
+}
+.elation-footer-social .site-footer-icons .social-icon i {
+    width: 88px;
+    height: 88px;
+    padding-top: 24%;
+}
+.elation-footer-social .site-footer-inner .site-bar-text {
+    display: block;
+}
+.elation-footer-social .site-footer-inner .site-bar-text:last-child {
+    margin: 5px 0 0;
+    font-size: 0.85em;
+}
+/* ---- Icons Style ---- */
+.site-footer-icons.elation-footicon-round .social-icon i {
+    display: inline-block;
+    background-color: #000;
+    border-radius: 50%;
+    color: #FFF;
+}
+.site-footer-icons.elation-footicon-rounded .social-icon i {
+    display: inline-block;
+    background-color: #000;
+    border-radius: 8px;
+    color: #FFF;
+}
+.site-footer-icons.elation-footicon-square .social-icon i {
+    display: inline-block;
+    background-color: #000;
+    color: #FFF;
+}
+.site-footer-icons.elation-footicon-circled .social-icon i {
+    display: inline-block;
+    border: 2px solid #000;
+    color: #000;
+    border-radius: 50%;
+}
+
+.elation-footer-social .site-footer-icons .social-icon:hover {
+    opacity: 0.7;
+}

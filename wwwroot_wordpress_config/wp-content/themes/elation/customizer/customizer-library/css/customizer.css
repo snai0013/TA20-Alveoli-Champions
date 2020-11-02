@@ -1,0 +1,462 @@
+#customize-theme-controls #accordion-section-title_tagline .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-elation-panel-settings .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-elation-panel-blog-settings .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-elation-panel-font-settings .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-elation-panel-edit-text .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-elation-panel-colors .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-elation-panel-social .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-woocommerce .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-elation-panel-mobile-settings .accordion-section-title:hover,
+#customize-theme-controls #accordion-section-elation-section-plugin-support .accordion-section-title:hover {
+    background-color: #006CC9;
+    color: #FFF;
+}
+#customize-theme-controls #accordion-section-title_tagline .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-elation-panel-settings .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-elation-panel-blog-settings .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-elation-panel-font-settings .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-elation-panel-edit-text .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-elation-panel-colors .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-elation-panel-social .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-woocommerce .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-panel-elation-panel-mobile-settings .accordion-section-title:hover:after,
+#customize-theme-controls #accordion-section-elation-section-plugin-support .accordion-section-title:hover:after {
+    color: #FFF !important;
+}
+
+li#accordion-section-freemius_upsell,
+.elation-remove-panel {
+    display: none !important;
+}
+
+#customize-control-elation-nav-advanced-set,
+#customize-control-elation-blog-advanced-set,
+#customize-control-elation-wccat-advanced-set {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #81909c;
+    margin: 15px 0;
+}
+.customize-control.customize-control-range input[type="range"] {
+    width: 100%;
+}
+.elation-customizer-description,
+#customize-control-elation-uploaded-logo .description,
+#customize-control-elation-sitemedia-display .description,
+#customize-control-elation-sitemedia-display-all .description {
+    font-size: 11px;
+    color: #969696;
+}
+
+#customize-control-elation-body-fonts-size .description,
+#customize-control-elation-heading-fonts-size .description,
+#customize-control-elation-blog-grid-cols .description,
+#customize-control-elation-wc-rel-product-cols .description {
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 9px;
+    color: #6f6f6f;
+    display: flex;
+    align-items: center;
+}
+#customize-control-elation-body-fonts-size .description b,
+#customize-control-elation-heading-fonts-size .description b,
+#customize-control-elation-wc-rel-product-cols .description b {
+    opacity: 0.35;
+    font-size: 19px;
+    font-weight: 200;
+    text-align: center;
+    position: relative;
+    top: -2px;
+    flex: 1;
+}
+#customize-control-elation-heading-fonts-size .description b {
+    margin: 0 17px;
+}
+#customize-control-elation-blog-grid-cols .description {
+    font-size: 11px;
+}
+#customize-control-elation-blog-grid-cols .description b,
+#customize-control-elation-wc-rel-product-cols .description b {
+    margin: 0 38px 0 34px;
+}
+#customize-control-elation-notefor-breadcrumb {
+    display: block;
+    margin: 30px 0 0;
+}
+#customize-control-elation-notefor-breadcrumb b {
+    color: #444;
+}
+
+#customize-control-elation-note-mainnav,
+#customize-control-elation-note-mainnav-mm,
+#customize-control-elation-note-edit-mobile,
+#customize-control-elation-note-header-logo,
+#customize-control-elation-note-goedit-mobile,
+#customize-control-elation-note-toedit-mobile,
+#customize-control-elation-social-set-edit,
+#customize-control-elation-note-edit-wc {
+    text-align: center;
+    padding: 0 0 15px;
+}
+
+.customize-control-heading {
+    margin: 0;
+}
+h4.elation-customizer-heading,
+#customize-control-elation-uploaded-logo,
+#customize-control-elation-add-topbar,
+#customize-control-elation-enable-sticky-header,
+#customize-control-elation-footer-bttb,
+#customize-control-elation-footer-siteby {
+    background-color: #66717b;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-left: 0;
+    border-right: 0;
+    color: #FFF;
+    margin: 20px -12px 12px;
+    padding: 10px 10px 10px 20px;
+    font-size: 15px;
+    font-weight: 300;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.6);
+    position: relative;
+    letter-spacing: 0.8px;
+}
+#customize-control-elation-add-topbar {
+    margin-top: 5px;
+}
+#customize-control-elation-layout-heading-page h4.elation-customizer-heading,
+#customize-control-elation-layout-heading-topbar h4.elation-customizer-heading,
+#customize-control-elation-heading-settings-footer h4.elation-customizer-heading,
+#customize-control-elation-font-heading-header h4.elation-customizer-heading,
+#customize-control-elation-heading-pagetitles h4.elation-customizer-heading,
+#customize-control-elation-font-heading-footer h4.elation-customizer-heading,
+#customize-control-elation-color-head-content-title h4.elation-customizer-heading,
+#customize-control-elation-color-head-header-topbar h4.elation-customizer-heading,
+#customize-control-elation-color-footer-head h4.elation-customizer-heading,
+#customize-control-elation-onmobile-heading-topbar h4.elation-customizer-heading,
+#customize-control-elation-font-heading-content h4.elation-customizer-heading {
+    margin: -14px -12px 12px;
+}
+#customize-control-elation-uploaded-logo input,
+#customize-control-elation-add-topbar input,
+#customize-control-elation-enable-sticky-header input,
+#customize-control-elation-footer-bttb input,
+#customize-control-elation-footer-siteby input {
+    margin: -4px 5px 0 -8px;
+}
+#customize-control-elation-uploaded-logo .customize-inside-control-row,
+#customize-control-elation-add-topbar .customize-inside-control-row,
+#customize-control-elation-enable-sticky-header .customize-inside-control-row,
+#customize-control-elation-footer-bttb .customize-inside-control-row,
+#customize-control-elation-footer-siteby .customize-inside-control-row {
+    margin: 0;
+    padding: 0;
+}
+
+ul.control-section .el-top-controls {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: stretch;
+    background-color: #535d67;
+    margin: -22px -12px 15px -11px;
+}
+ul.control-section .el-top-controls a.dashicons {
+    flex: 1;
+    text-align: center;
+    font-size: 9px;
+    height: auto;
+    padding: 6px 0 10px;
+    color: #cecece;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+}
+ul.control-section .el-top-controls a.dashicons:before {
+    display: block;
+    font-size: 26px;
+    margin: 0 0 2px;
+}
+#customize-control-elation-uploaded-logo .customize-control-description {
+    font-style: normal;
+    color: #cecece;
+    margin-left: 18px;
+}
+.el-controls,
+#customize-control-elation-add-topbar .customize-control-description,
+#customize-control-elation-enable-sticky-header .customize-control-description {
+    position: absolute;
+    top: 50%;
+    margin-top: -12px;
+    right: 8px;
+    display: flex;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s ease 0.05s;
+     -moz-transition: opacity 0.3s ease 0.05s;
+      -ms-transition: opacity 0.3s ease 0.05s;
+       -o-transition: opacity 0.3s ease 0.05s;
+          transition: opacity 0.3s ease 0.05s;
+}
+.el-controls a.dashicons,
+#customize-control-elation-add-topbar a.dashicons,
+#customize-control-elation-enable-sticky-header a.dashicons {
+    font-size: 22px;
+    margin: 0 5px;
+    color: #cecece;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.el-controls a.dashicons:hover,
+ul.control-section .el-top-controls a.dashicons:hover,
+#customize-control-elation-add-topbar a.dashicons:hover,
+#customize-control-elation-enable-sticky-header a.dashicons:hover {
+    color: #FFF;
+}
+.customize-control:hover .el-controls,
+#customize-control-elation-add-topbar:hover .customize-control-description,
+#customize-control-elation-enable-sticky-header:hover .customize-control-description {
+    opacity: 1;
+}
+.el-controls a.el-font,
+#customize-control-elation-add-topbar a.el-font {
+    font-size: 30px;
+}
+a.el-interlink {
+    display: inline-block;
+    background-color: #64717c;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+    color: #fbfbfb;
+    margin: 5px 1px;
+    padding: 2px 8px 3px;
+    text-decoration: none;
+}
+a.el-interlink:hover {
+    background-color: #6e8598;
+}
+
+#customize-control-elation-logo-max-width,
+#customize-control-elation-add-back-tagline,
+#customize-control-elation-logo-title-spacing,
+#customize-control-elation-responsive-disable,
+#customize-control-elation-blog-post-layout,
+#customize-control-elation-menu-breakat,
+#customize-control-elation-seo-site-tagline,
+#customize-control-elation-seo-page-title,
+#customize-control-elation-seo-bloglist-title,
+#customize-control-elation-site-container-width,
+#customize-control-elation-topbar-centered,
+#customize-control-elation-remove-main-nav,
+#customize-control-elation-header-nav-style,
+#customize-control-elation-align-nav-full-width,
+#customize-control-elation-header-remove-address,
+#customize-control-elation-header-nav-spacing-bottom,
+#customize-control-elation-header-nav-spacing-side,
+#customize-control-elation-header-nav-item-spacing,
+#customize-control-elation-stuckheader-logo-title-size,
+#customize-control-elation-stuckheader-remove-tagline,
+#customize-control-elation-stuckheader-tagline-size,
+#customize-control-elation-remove-pagetitles,
+#customize-control-elation-widget-area-stick,
+#customize-control-elation-widget-spacing-bottom,
+#customize-control-elation-widget-area-size,
+#customize-control-elation-remove-bottombar,
+#customize-control-elation-bottombar-layout,
+#customize-control-elation-add-botbar-fullcart,
+#customize-control-elation-remove-botbar-address,
+#customize-control-elation-bottombar-spacing-bottom,
+#customize-control-elation-siteby-style,
+#customize-control-elation-siteby-url-target,
+#customize-control-elation-blog-list-layout,
+#customize-control-elation-blog-vert-center-items,
+#customize-control-elation-blog-list-post-space,
+#customize-control-elation-blog-list-img-prop,
+#customize-control-elation-blog-remove-list-com,
+#customize-control-elation-blog-grid-space,
+#customize-control-elation-blog-content-off,
+#customize-control-elation-blog-list-img-cut,
+#customize-control-elation-blog-list-title-space,
+#customize-control-elation-blog-list-font-size,
+#customize-control-elation-blog-postlay,
+#customize-control-elation-blog-post-meta-italic,
+#customize-control-elation-blog-post-meta-icons,
+#customize-control-elation-blog-post-fimage,
+#customize-control-elation-blog-post-remove-auth,
+#customize-control-elation-blog-post-remove-tags,
+#customize-control-elation-blog-post-nav-layout,
+#customize-control-elation-blog-search-remove-pages,
+#customize-control-elation-disable-google-font,
+#customize-control-elation-body-font-lheight,
+#customize-control-elation-title-fweight,
+#customize-control-elation-footer-title-uc,
+#customize-control-elation-topbar-font-size,
+#customize-control-elation-nav-uppercase,
+#customize-control-elation-nav-font-size,
+#customize-control-elation-page-title-spacing,
+#customize-control-elation-widget-title-spacing,
+#customize-control-elation-edit-text-help,
+#customize-control-elation-edit-text-phone,
+#customize-control-elation-edit-text-foot-help,
+#customize-control-elation-edit-text-footer-etxt,
+#customize-control-elation-edit-text-footer-address,
+#customize-control-external_header_video,
+#customize-control-elation-social-email,
+#customize-control-elation-social-custom-url,
+#customize-control-elation-social-add-sideicons,
+#customize-control-elation-social-let-scroll,
+#customize-control-elation-side-social-look,
+#customize-control-elation-side-social-space,
+#customize-control-elation-content-title-font-color,
+#customize-control-elation-content-font-color,
+#customize-control-elation-widget-font-color,
+#customize-control-elation-header-font-color,
+#customize-control-elation-nav-font-color,
+#customize-control-elation-nav-drop-font-color,
+#customize-control-elation-wc-list-style,
+#customize-control-elation-wc-remove-result-sort,
+#customize-control-elation-wc-product-col-space,
+#customize-control-elation-wc-product-bottom-space,
+#customize-control-elation-wcproduct-remove-galslider,
+#customize-control-elation-wcproduct-remove-tags,
+#customize-control-elation-wcproduct-img-sum-size,
+#customize-control-elation-wc-account-style,
+#customize-control-elation-wc-cartpage-style,
+#customize-control-elation-wc-checkout-style,
+#customize-control-elation-error-page-style,
+#customize-control-elation-error-img,
+#customize-control-elation-error-remove-btn,
+#customize-control-elation-dd-style,
+#customize-control-elation-mobilemenu-bg-color,
+#customize-control-elation-mobilemenu-font-hover-color,
+#customize-control-elation-mobilemenu-sub-dark,
+#customize-control-elation-mobilemenu-item-font-size {
+	border-bottom: 1px solid rgb(149, 164, 177);
+	padding: 0 0 20px;
+    margin-bottom: 15px;
+}
+#customize-control-site_icon,
+#customize-control-elation-site-remove-editlink,
+#customize-control-elation-break-content,
+#customize-control-elation-site-shadows,
+#customize-control-elation-site-load-on,
+#customize-control-elation-site-loader-img,
+#customize-control-elation-site-loader-bgcolor,
+#customize-control-elation-site-loader-color,
+#customize-control-elation-site-loader-border,
+#customize-control-elation-topbar-layout,
+#customize-control-elation-set-topbar-fullwidth,
+#customize-control-elation-remove-header-search,
+#customize-control-elation-nav-drop-center,
+#customize-control-elation-note-edit-wc,
+#customize-control-elation-topbar-spacing-top,
+#customize-control-elation-header-spacing-top,
+#customize-control-elation-header-bgimg-repeat,
+#customize-control-elation-header-topbar-clear,
+#customize-control-elation-add-header-bgimg,
+#customize-control-elation-content-spacing-top,
+#customize-control-elation-header-bgimg,
+#customize-control-elation-sitemedia-display-all,
+#customize-control-elation-sitemedia-fullwidth,
+#customize-control-elation-site-media-fimage-size,
+#customize-control-elation-sitemedia-add-elation,
+#customize-control-elation-sitemedia-elation-color,
+#customize-control-elation-content-padding-top,
+#customize-control-elation-widget-padding-top,
+#customize-control-elation-footer-custom-cols,
+#customize-control-elation-footer-remove-social,
+#customize-control-elation-footer-icon-size,
+#customize-control-elation-footer-widget-space,
+#customize-control-elation-footalign,
+#customize-control-elation-footer-top-pad,
+#customize-control-elation-footer-icon-style,
+#customize-control-elation-footer-social-menuitems-one,
+#customize-control-elation-bottombar-spacing-top,
+#customize-control-elation-siteby-prename,
+#customize-control-elation-blog-grid-cols,
+#customize-control-elation-blog-search-list-layout,
+#customize-control-elation-blog-list-title-space,
+#customize-control-elation-blog-pagination-type,
+#customize-control-elation-blogcerpt-wordamount,
+#customize-control-elation-blog-add-authorblock,
+#customize-control-elation-blog-authorblock-style,
+#customize-control-elation-blog-authorblock-txt,
+#customize-control-elation-blog-authorblock-width,
+#customize-control-elation-bloglist-post-meta-italic,
+#customize-control-elation-blog-remove-list-title,
+#customize-control-elation-boxed-bg-color,
+#customize-control-elation-footer-title-font-color,
+#customize-control-elation-footer-social-icons-color,
+#customize-control-elation-add-footer-bgimg,
+#customize-control-elation-footer-bgimg,
+#customize-control-elation-footer-bgimg-repeat,
+#customize-control-elation-footer-botbar-clear,
+#customize-control-elation-footer-link-color,
+#customize-control-elation-bottombar-link-color,
+#customize-control-elation-onmobile-remove-logo,
+#customize-control-elation-onmobile-remove-header-bgimg,
+#customize-control-elation-onmobile-remove-stickyheader,
+#customize-control-elation-nav-drop-minwidth,
+#customize-control-elation-bg-image-header-clear,
+#customize-control-elation-noteon-title-size,
+#customize-control-elation-noteon-title-sett,
+#customize-control-elation-mobile-menu-icon,
+#customize-control-elation-onmobile-remove-sidesocial,
+#customize-control-elation-onmobile-remove-bottombar,
+#customize-control-elation-wc-mobile-onecol {
+	border-top: 1px solid rgb(149, 164, 177);
+	padding: 20px 0 0;
+    margin-top: 12px;
+}
+
+#accordion-section-elation-panel-settings-seo,
+#accordion-section-elation-panel-settings-section-pages,
+#accordion-section-elation-panel-settings-section-nav,
+#accordion-section-elation-panel-settings-section-header-media,
+#accordion-section-elation-panel-font-settings-default,
+#accordion-section-elation-panel-font-settings-section-nav,
+#accordion-section-elation-panel-settings-section-widget,
+#accordion-section-elation-panel-settings-section-footer,
+#accordion-section-elation-panel-font-settings-section-widget,
+#accordion-section-elation-panel-font-settings-title-tagline,
+#accordion-section-woocommerce_checkout,
+#accordion-section-colors,
+#accordion-section-elation-panel-mobile-section-extras,
+#accordion-section-elation-woocommerce-checkout-settings {
+    margin-bottom: 8px;
+}
+
+/* -- Range Value Display -- */
+.customize-control.customize-control-range .description {
+    font-style: normal;
+    text-transform: none;
+    font-size: 11px;
+    color: #b9b9b9 !important;
+    display: flex;
+}
+.customize-control.customize-control-range .description span {
+    flex: 1;
+    text-align: center;
+}
+.customize-control.customize-control-range .description span i {
+    font-style: normal;
+}
+.customize-control.customize-control-range:hover .description span {
+    color: #222 !important;
+}
+.customize-control.customize-control-range .description span.fst,
+.customize-control.customize-control-range .description span.lst {
+    max-width: 25px;
+    color: #b9b9b9 !important;
+}
+
+#sub-accordion-section-title_tagline .customize-section-description-container {
+    margin-bottom: 0;
+}
+#customize-control-elation-uploaded-logo {
+    margin-top: -12px;
+}

@@ -1,0 +1,352 @@
+/*--------------------------------------------------------------
+# Elation - Responsive Mobile Styling
+--------------------------------------------------------------*/
+/* ---- Site Header ---- */
+.site-bar-inner,
+.site-bar-left,
+.site-bar-center,
+.site-bar-right {
+    display: block;
+    text-align: center;
+}
+.site-bar-inner {
+    padding: 5px 0 !important;
+}
+ul.site-header-cart {
+    display: inline-block;
+}
+
+.site-bar .site-container,
+.site-header .site-header-wrap {
+    padding: 0 !important;
+}
+
+/* -- Standard -- */
+.site-header.site-header-standard .site-header-wrap {
+    flex-direction: column;
+    text-align: center;
+}
+.site-header.site-header-standard .site-header-main {
+    flex: 2;
+}
+.site-header.site-header-standard .main-navigation {
+    flex: 1;
+    box-shadow: inset 0 1px rgba(0, 0, 0, 0.08);
+}
+.site-header.site-header-standard .main-navigation .site-container {
+    width: 100%;
+}
+.site-header.site-header-standard .main-navigation .menu-toggle {
+    width: 100%;
+    text-align: center;
+}
+.site-header.site-header-standard .main-navigation button.header-search {
+    position: absolute;
+    height: 100%;
+    width: 40px;
+    right: 5px;
+}
+.elation-search-always .site-header.site-header-standard .main-navigation .site-container,
+.elation-search-plugin-shortcode .site-header.site-header-standard .main-navigation .site-container {
+    flex-direction: column;
+}
+.elation-search-always .site-header .header-search-block,
+.elation-search-plugin-shortcode .site-header .header-search-block {
+    width: 100%;
+    box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.08);
+    padding: 8px 10px 6px;
+    margin: 0;
+}
+/* -- Centered -- */
+.site-header.site-header-centered .main-navigation button.header-search {
+    position: absolute;
+    height: 45px;
+    width: 40px;
+    right: 5px;
+}
+.elation-search-always .site-header.site-header-centered .main-navigation .site-container,
+.elation-search-plugin-shortcode .site-header.site-header-centered .main-navigation .site-container {
+    flex-direction: column;
+}
+.elation-search-always .site-header.site-header-centered .main-navigation .menu-toggle,
+.elation-search-plugin-shortcode .site-header.site-header-centered .main-navigation .menu-toggle {
+    width: 100%;
+}
+
+/* -- Sticky Header Fix -- */
+.stick-header.stuck .site-logo-align-inner {
+    flex-direction: row;
+}
+.stick-header.stuck .site-logo-align-inner .custom-logo-link {
+    margin-bottom: 0;
+}
+.stick-header.stuck .site-logo-align-inner .site-logo-title {
+    padding-left: 15px;
+    text-align: left;
+}
+
+/* ---- Site Search ---- */
+.elation-search-slide .header-search-block {
+    display: none;
+}
+.show-site-search .elation-search-slide .header-search-block,
+.show-site-search .elation-search-fade .header-search-block {
+    display: block;
+    box-shadow: none;
+    border: 0;
+    bottom: 0 !important;
+    position: relative;
+    width: 100% !important;
+    right: auto !important;
+    left: auto !important;
+    padding: 6px 10px;
+    -webkit-transition: unset;
+     -moz-transition: unset;
+      -ms-transition: unset;
+       -o-transition: unset;
+          transition: unset;
+}
+
+.site-bar-right > a,
+.site-bar-right > ul,
+.site-bar-right > span,
+.site-bar-right > div,
+.site-bar-right > button,
+.site-topbar-switch .site-bar-left > a,
+.site-topbar-switch .site-bar-left > ul,
+.site-topbar-switch .site-bar-left > span,
+.site-topbar-switch .site-bar-left > div,
+.site-topbar-switch .site-bar-left > button,
+.site-bottombar-switch .site-bar-left > a,
+.site-bottombar-switch .site-bar-left > ul,
+.site-bottombar-switch .site-bar-left > span,
+.site-bottombar-switch .site-bar-left > div,
+.site-bottombar-switch .site-bar-left > button {
+    margin: 0 6px;
+}
+
+.elation-search-full .header-search-block,
+.elation-search-full-txt .header-search-block {
+    left: 5%;
+    width: 90%;
+}
+.elation-search-full-txt .header-search-block .search-field {
+    font-size: 2em;
+}
+
+/* ---- Site Content ---- */
+.site-container.site-content .site-content-inner {
+    display: block;
+}
+.site-content-inner #primary.content-area,
+body.elation-page-rs .site-content .site-content-inner #primary.content-area,
+body.elation-page-ls .site-content .site-content-inner #primary.content-area,
+body.elation-page-frs .site-content .site-content-inner #primary.content-area,
+body.elation-page-fls .site-content .site-content-inner #primary.content-area,
+body.elation-blog-rs .site-content .site-content-inner #primary.content-area,
+body.elation-blog-ls .site-content .site-content-inner #primary.content-area,
+body.elation-blog-post-rs .site-content .site-content-inner #primary.content-area,
+body.elation-blog-post-ls .site-content .site-content-inner #primary.content-area,
+body.elation-blog-search-rs .site-content .site-content-inner #primary.content-area,
+body.elation-blog-search-ls .site-content .site-content-inner #primary.content-area,
+body.elation-wc-rs .site-content .site-content-inner #primary.content-area,
+body.elation-wc-ls .site-content .site-content-inner #primary.content-area,
+body.elation-wc-product-rs .site-content .site-content-inner #primary.content-area,
+body.elation-wc-product-ls .site-content .site-content-inner #primary.content-area {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
+    display: block;
+    width: 100%;
+    padding: 0 0 25px;
+    margin: 0 0 25px;
+}
+.site-content-inner #secondary.widget-area,
+body.elation-page-rs .site-content .site-content-inner #secondary.widget-area,
+body.elation-page-ls .site-content .site-content-inner #secondary.widget-area,
+body.elation-page-frs .site-content .site-content-inner #secondary.widget-area,
+body.elation-page-fls .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-rs .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-ls .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-post-rs .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-post-ls .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-search-rs .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-search-ls .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-rs .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-ls .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-product-rs .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-product-ls .site-content .site-content-inner #secondary.widget-area {
+    box-shadow: none;
+    display: block;
+    width: 100%;
+    padding: 0 !important;
+}
+body.page-template-floating-right-sidebar .site-content .site-content-inner #secondary.widget-area,
+body.page-template-floating-left-sidebar .site-content .site-content-inner #secondary.widget-area,
+body.elation-page-frs .site-content .site-content-inner #secondary.widget-area,
+body.elation-page-fls .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-frs .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-fls .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-post-frs .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-post-fls .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-search-frs .site-content .site-content-inner #secondary.widget-area,
+body.elation-blog-search-fls .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-frs .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-fls .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-product-frs .site-content .site-content-inner #secondary.widget-area,
+body.elation-wc-product-fls .site-content .site-content-inner #secondary.widget-area {
+    position: relative;
+    top: 0;
+    bottom: auto;
+    right: auto;
+    left: auto;
+}
+.floating-sidebar-control {
+    display: none !important;
+}
+
+body.enable-sticky-widgets .widget-area.widget-area-sticky {
+    height: auto !important;
+}
+body.enable-sticky-widgets .sticky-widget-area.stuck,
+body.enable-sticky-widgets .sticky-surpassed {
+    position: relative !important;
+    top: 0 !important;
+    width: auto !important;
+    bottom: auto !important;
+}
+
+/* ---- Blog ---- */
+.elation-list.list-grid article.post .post-inner {
+    display: block;
+}
+.elation-list.list-grid .post-img,
+.elation-list.list-grid .post-content {
+    width: 100%;
+    padding: 0;
+}
+.elation-list.list-grid .post-img {
+    margin: 0 0 20px;
+}
+
+.elation-list.list-grid article.post.blog-grid-block,
+.elation-list.list-grid article.page.blog-grid-block {
+    width: 50%;
+}
+.elation-list.list-grid .blog-grid-block .post-img {
+    margin: 0;
+}
+
+/* ---- Site Footer ---- */
+.site-bar-right > div {
+    display: inline-block;
+}
+.elation-footer-default .site-footer-widgets,
+.elation-footer-split ul.site-footer-widgets,
+.site-footer .site-footer-inner .site-container,
+.elation-footer-basic .elation-footer-basic-left,
+.elation-footer-basic .elation-footer-basic-right,
+.elation-footer-basic .elation-footer-basic-right .site-bar-text,
+.elation-footer-basic .elation-footer-basic-right .site-footer-icons {
+    display: block !important;
+}
+.elation-footer-default .site-footer-widgets .footer-custom-block,
+.elation-footer-split ul.site-footer-widgets > li {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 0 25px !important;
+}
+
+.elation-footer-basic .elation-footer-basic-left,
+.elation-footer-basic .elation-footer-basic-right,
+.site-footer .site-bar .site-bar-inner {
+    text-align: center;
+}
+.elation-footer-basic .elation-footer-basic-right .site-bar-text {
+    margin: 15px 0 30px;
+}
+.elation-footer-basic .site-footer-inner {
+    padding: 20px 0 !important;
+}
+.site-footer .site-bar .site-bar-inner {
+    padding: 12px 0 15px !important;
+    line-height: 1.9;
+}
+.site-footer .site-bar .site-bar-inner .site-bar-text {
+    margin: 0;
+}
+
+/* ---- WooCommerce ---- */
+.site-bar .site-header-cart {
+    padding: 0;
+}
+.woocommerce ul.products li.product {
+    width: 50% !important;
+}
+
+/* ---- Small Device Responsiveness ---- */
+@media only screen and (max-width: 560px) {
+    .site-header.site-header-centered .site-header-main {
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    .site-logo-align-inner .custom-logo-link {
+        margin-bottom: 10px;
+    }
+    .site-logo-align-inner .site-logo-title {
+        padding: 0;
+        text-align: center;
+    }
+    .site-title {
+        font-size: 54px !important;
+    }
+    .site-description {
+        font-size: 12px !important;
+    }
+
+    .elation-list.list-grid article.post.blog-grid-block,
+    .elation-list.list-grid article.page.blog-grid-block {
+        width: 100%;
+    }
+
+    /* ---- WooCommerce ---- */
+    .woocommerce .woocommerce-result-count,
+    .woocommerce .woocommerce-ordering,
+    .woocommerce .woocommerce-ordering select {
+        float: none;
+        width: 100%;
+    }
+
+    .woocommerce #content div.product div.images,
+    .woocommerce div.product div.images,
+    .woocommerce-page #content div.product div.images,
+    .woocommerce-page div.product div.images {
+        width: 100% !important;
+        float: none;
+        margin: 0 0 20px !important;
+    }
+    .woocommerce #content div.product div.summary,
+    .woocommerce div.product div.summary,
+    .woocommerce-page #content div.product div.summary,
+    .woocommerce-page div.product div.summary {
+        width: 100% !important;
+        float: none;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .site-header.site-header-standard .site-header-wrap,
+    .site-logo-align-inner {
+        flex-direction: column;
+    }
+    .site-header.site-header-standard .site-branding {
+        padding: 5px;
+    }
+    .site-header.site-header-standard .main-navigation {
+        width: 100%;
+    }
+    .site-header.site-header-standard .main-navigation .menu-toggle {
+        text-align: center;
+    }
+    ​.site-bar-left span.site-bar-text {
+        display: block;
+    }
+}

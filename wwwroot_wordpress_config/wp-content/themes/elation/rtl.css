@@ -1,0 +1,160 @@
+/*
+Theme Name: Elation
+Adding support for languages written in a Right To Left (RTL)
+*/
+/* ---- Site Top Bar ---- */
+.rtl .site-bar-left {
+	float: right;
+}
+.rtl .site-bar-right {
+	float: left;
+}
+.rtl .site-bar-left > a,
+.rtl .site-bar-left > ul,
+.rtl .site-bar-left > span,
+.rtl .site-bar-left > div,
+.rtl .site-bar-left > button,
+.rtl .site-topbar-switch .site-bar-right > a,
+.rtl .site-topbar-switch .site-bar-right > ul,
+.rtl .site-topbar-switch .site-bar-right > span,
+.rtl .site-topbar-switch .site-bar-right > div,
+.rtl .site-topbar-switch .site-bar-right > button,
+.rtl .site-bottombar-switch .site-bar-right > a,
+.rtl .site-bottombar-switch .site-bar-right > ul,
+.rtl .site-bottombar-switch .site-bar-right > span,
+.rtl .site-bottombar-switch .site-bar-right > div,
+.rtl .site-bottombar-switch .site-bar-right > button {
+    margin: 0 0 0 12px;
+}
+.rtl .site-bar-right > a,
+.rtl .site-bar-right > ul,
+.rtl .site-bar-right > span,
+.rtl .site-bar-right > div,
+.rtl .site-bar-right > button,
+.rtl .site-topbar-switch .site-bar-left > a,
+.rtl .site-topbar-switch .site-bar-left > ul,
+.rtl .site-topbar-switch .site-bar-left > span,
+.rtl .site-topbar-switch .site-bar-left > div,
+.rtl .site-topbar-switch .site-bar-left > button,
+.rtl .site-bottombar-switch .site-bar-left > a,
+.rtl .site-bottombar-switch .site-bar-left > ul,
+.rtl .site-bottombar-switch .site-bar-left > span,
+.rtl .site-bottombar-switch .site-bar-left > div,
+.rtl .site-bottombar-switch .site-bar-left > button {
+    margin: 0 12px 0 0;
+}
+
+/* ---- Main Navigation ---- */
+.rtl .main-navigation li {
+	float: right;
+}
+.rtl .main-navigation.main-nav-full-width #elation-main-menu,
+.rtl .main-navigation.main-nav-center {
+	float: none;
+}
+
+/* ---------------- Templates ---------------- */
+body.rtl.page-template-right-sidebar.elation-break-content .content-area,
+body.rtl.page-template-default.elation-site-full-width-blocked.elation-break-content.elation-page-rs .content-area,
+body.rtl.elation-site-full-width-blocked.elation-break-content.elation-blog-rs .content-area,
+body.rtl.elation-site-full-width-blocked.elation-break-content.elation-blog-post-rs .content-area,
+body.rtl.elation-site-full-width-blocked.elation-break-content.elation-blog-search-rs .content-area {
+	margin: 0 0% 0 3%;
+}
+body.rtl.page-template-left-sidebar.elation-break-content .content-area,
+body.rtl.page-template-default.elation-site-full-width-blocked.elation-break-content.elation-page-ls .content-area,
+body.rtl.elation-site-full-width-blocked.elation-break-content.elation-blog-ls .content-area,
+body.rtl.elation-site-full-width-blocked.elation-break-content.elation-blog-post-ls .content-area,
+body.rtl.elation-site-full-width-blocked.elation-break-content.elation-blog-search-ls .content-area {
+	margin: 0 3% 0 0%;
+}
+
+/* ---- Default ---- */
+body.rtl.page-template-default.elation-page-rs .content-area,
+
+body.rtl.blog.elation-blog-rs .content-area,
+body.rtl.single.elation-blog-post-rs .content-area,
+body.rtl.archive.elation-blog-rs .content-area,
+body.rtl.search-results.elation-blog-search-rs .content-area,
+
+body.archive.woocommerce.elation-wc-rs .content-area,
+body.single-product.woocommerce.elation-wc-product-rs .content-area,
+
+body.rtl.elation-site-boxed .content-area,
+body.rtl.elation-site-full-width .content-area,
+body.rtl.page-template-right-sidebar.elation-site-full-width-blocked.elation-joined-content .content-area {
+	padding-right: 0;
+	padding-left: 25px;
+}
+body.rtl.page-template-default.elation-page-rs .widget-area,
+
+body.rtl.blog.elation-blog-rs .widget-area,
+body.rtl.single.elation-blog-post-rs .widget-area,
+body.rtl.archive.elation-blog-rs .widget-area,
+body.rtl.search-results.elation-blog-search-rs .widget-area,
+
+body.archive.woocommerce.elation-wc-rs .widget-area,
+body.single-product.woocommerce.elation-wc-product-rs .widget-area,
+
+body.rtl.elation-site-boxed .widget-area,
+body.rtl.elation-site-full-width .widget-area,
+body.rtl.page-template-right-sidebar.elation-site-full-width-blocked.elation-joined-content .widget-area {
+	padding-left: 0;
+	padding-right: 25px;
+}
+
+/* ---- Left Sidebar ---- */
+body.rtl.page-template-default.elation-page-ls .content-area,
+
+body.rtl.blog.elation-blog-ls .content-area,
+body.rtl.single.elation-blog-post-ls .content-area,
+body.rtl.archive.elation-blog-ls .content-area,
+body.rtl.search-results.elation-blog-search-ls .content-area,
+
+body.archive.woocommerce.elation-wc-ls .content-area,
+body.single-product.woocommerce.elation-wc-product-ls .content-area,
+
+body.rtl.page-template-left-sidebar .content-area,
+body.rtl.elation-blog-ls .content-area,
+body.rtl.search-results.elation-blog-search-ls .content-area,
+body.rtl.elation-blog-post-ls .content-area,
+body.rtl.elation-site-full-width-blocked.elation-joined-content.elation-page-ls .content-area {
+	padding-left: 0;
+	padding-right: 25px;
+}
+body.rtl.page-template-default.elation-page-ls .widget-area,
+
+body.rtl.blog.elation-blog-ls .widget-area,
+body.rtl.single.elation-blog-post-ls .widget-area,
+body.rtl.archive.elation-blog-ls .widget-area,
+body.rtl.search-results.elation-blog-search-ls .widget-area,
+
+body.archive.woocommerce.elation-wc-ls .widget-area,
+body.single-product.woocommerce.elation-wc-product-ls .widget-area,
+
+body.rtl.page-template-left-sidebar .widget-area,
+body.rtl.elation-blog-ls .widget-area,
+body.rtl.search-results.elation-blog-search-ls .widget-area,
+body.rtl.elation-blog-post-ls .widget-area,
+body.rtl.elation-site-full-width-blocked.elation-joined-content.elation-page-ls .widget-area {
+	padding-right: 0;
+	padding-left: 25px;
+}
+
+/* ---- Box Shadow - Right---- */
+.rtl .content-area,
+body.rtl.blog.elation-blog-rs .content-area,
+body.rtl.single.elation-blog-post-rs .content-area,
+body.rtl.archive.elation-blog-rs .content-area,
+body.rtl.search-results.elation-blog-search-rs .content-area {
+	box-shadow: -1px 0 0 rgba(0, 0, 0, 0.08);
+}
+/* ---- Box Shadow - Left---- */
+body.rtl.page-template-left-sidebar .content-area,
+body.rtl.page-template-default.elation-page-ls .content-area,
+body.rtl.blog.elation-blog-ls .content-area,
+body.rtl.single.elation-blog-post-ls .content-area,
+body.rtl.archive.elation-blog-ls .content-area,
+body.rtl.search-results.elation-blog-search-ls .content-area {
+	box-shadow: 1px 0 0 rgba(0, 0, 0, 0.08);
+}

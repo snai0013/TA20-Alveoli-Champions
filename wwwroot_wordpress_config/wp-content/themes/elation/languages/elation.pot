@@ -1,0 +1,4715 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Elation\n"
+"POT-Creation-Date: 2020-09-03 13:51+0200\n"
+"PO-Revision-Date: 2019-05-29 14:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: Kaira\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:2,1;__ngettext:1,2;"
+"__ngettext_noop:1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;"
+"esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:44
+msgid "Return Home"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: customizer/customizer-library/custom-controls/imageselect.php:22
+msgid "Full"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: customizer/customizer-options.php:14
+msgid "200"
+msgstr ""
+
+#: customizer/customizer-options.php:15
+msgid "300"
+msgstr ""
+
+#: customizer/customizer-options.php:16
+msgid "400"
+msgstr ""
+
+#: customizer/customizer-options.php:17
+msgid "500"
+msgstr ""
+
+#: customizer/customizer-options.php:18
+msgid "600"
+msgstr ""
+
+#: customizer/customizer-options.php:19
+msgid "700"
+msgstr ""
+
+#: customizer/customizer-options.php:20
+msgid "900"
+msgstr ""
+
+#: customizer/customizer-options.php:24
+msgid "H1"
+msgstr ""
+
+#: customizer/customizer-options.php:25
+msgid "H2"
+msgstr ""
+
+#: customizer/customizer-options.php:26
+msgid "H3"
+msgstr ""
+
+#: customizer/customizer-options.php:27
+msgid "H4"
+msgstr ""
+
+#: customizer/customizer-options.php:28
+msgid "H5"
+msgstr ""
+
+#: customizer/customizer-options.php:29
+msgid "H6"
+msgstr ""
+
+#: customizer/customizer-options.php:30
+msgid "div"
+msgstr ""
+
+#: customizer/customizer-options.php:31
+msgid "span"
+msgstr ""
+
+#: customizer/customizer-options.php:32
+msgid "P"
+msgstr ""
+
+#: customizer/customizer-options.php:51
+msgid "Site Identity"
+msgstr ""
+
+#: customizer/customizer-options.php:58
+msgid "Elation Logo Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:62
+msgid "Enable only once a logo is uploaded"
+msgstr ""
+
+#: customizer/customizer-options.php:66
+msgid "Set a max-width for the logo"
+msgstr ""
+
+#: customizer/customizer-options.php:72
+msgid "Add the Site Title"
+msgstr ""
+
+#: customizer/customizer-options.php:79
+msgid "Add the Site Tagline"
+msgstr ""
+
+#: customizer/customizer-options.php:86
+msgid "Align the Logo and Titles Side by Side"
+msgstr ""
+
+#: customizer/customizer-options.php:92
+#: customizer/customizer-options.php:1885
+msgid "Top"
+msgstr ""
+
+#: customizer/customizer-options.php:93
+#: customizer/customizer-options.php:1886
+msgid "Middle"
+msgstr ""
+
+#: customizer/customizer-options.php:94
+#: customizer/customizer-options.php:1887
+msgid "Bottom"
+msgstr ""
+
+#: customizer/customizer-options.php:98
+msgid "Logo Alignment"
+msgstr ""
+
+#: customizer/customizer-options.php:107
+msgid "Logo & Site Title Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:124
+msgid "Elation Theme Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:132
+msgid "Site Breakpoints"
+msgstr ""
+
+#: customizer/customizer-options.php:140
+msgid "Disable Responsiveness"
+msgstr ""
+
+#: customizer/customizer-options.php:147
+msgid "Tablet Breakpoint"
+msgstr ""
+
+#: customizer/customizer-options.php:154
+msgid "Mobile Breakpoint"
+msgstr ""
+
+#: customizer/customizer-options.php:160
+msgid "Always On"
+msgstr ""
+
+#: customizer/customizer-options.php:161
+msgid "Tablet"
+msgstr ""
+
+#: customizer/customizer-options.php:162
+msgid "Mobile"
+msgstr ""
+
+#: customizer/customizer-options.php:163
+msgid "Custom"
+msgstr ""
+
+#: customizer/customizer-options.php:167
+msgid "Menu Breakpoint"
+msgstr ""
+
+#: customizer/customizer-options.php:175
+msgid "Enter the breakpoint size for mobile menu"
+msgstr ""
+
+#: customizer/customizer-options.php:184
+msgid ""
+"Edit Elation <a href=\"#elation-panel-mobile-settings\" "
+"rel=\"tc-panel\" class=\"el-interlink\">Mobile Settings</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:192
+msgid "Search Engine Optimization (SEO)"
+msgstr ""
+
+#: customizer/customizer-options.php:201
+msgid ""
+"Select what HTML tag you want the following elements to be."
+msgstr ""
+
+#: customizer/customizer-options.php:206
+msgid "Site Title"
+msgstr ""
+
+#: customizer/customizer-options.php:214
+msgid "Site Tagline"
+msgstr ""
+
+#: customizer/customizer-options.php:222
+msgid "Page Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:230
+msgid "Blog List Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:238
+msgid "Sidebar & Footer - Widget Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:250
+msgid "Page Templates"
+msgstr ""
+
+#: customizer/customizer-options.php:257
+msgid "Pages"
+msgstr ""
+
+#: customizer/customizer-options.php:263
+#: customizer/customizer-options.php:293
+#: customizer/customizer-options.php:308
+#: customizer/customizer-options.php:323
+#: customizer/customizer-options.php:349
+#: customizer/customizer-options.php:364
+msgid "Right Sidebar"
+msgstr ""
+
+#: customizer/customizer-options.php:264
+#: customizer/customizer-options.php:294
+#: customizer/customizer-options.php:309
+#: customizer/customizer-options.php:324
+#: customizer/customizer-options.php:350
+#: customizer/customizer-options.php:365
+msgid "Left Sidebar"
+msgstr ""
+
+#: customizer/customizer-options.php:265
+#: customizer/customizer-options.php:295
+#: customizer/customizer-options.php:310
+#: customizer/customizer-options.php:325
+#: customizer/customizer-options.php:351
+#: customizer/customizer-options.php:366
+msgid "Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:266
+#: customizer/customizer-options.php:296
+#: customizer/customizer-options.php:311
+#: customizer/customizer-options.php:326
+#: customizer/customizer-options.php:352
+#: customizer/customizer-options.php:367
+msgid "Floating Right Sidebar"
+msgstr ""
+
+#: customizer/customizer-options.php:267
+#: customizer/customizer-options.php:297
+#: customizer/customizer-options.php:312
+#: customizer/customizer-options.php:327
+#: customizer/customizer-options.php:353
+#: customizer/customizer-options.php:368
+msgid "Floating Left Sidebar"
+msgstr ""
+
+#: customizer/customizer-options.php:271
+msgid "New Page - Default Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:279
+msgid "Remove Edit Links on Posts & Pages"
+msgstr ""
+
+#: customizer/customizer-options.php:287
+msgid "Blog Pages"
+msgstr ""
+
+#: customizer/customizer-options.php:301
+msgid "List / Archives Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:316
+msgid "Single Post - Default Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:331
+#: customizer/customizer-options.php:2725
+#: customizer/customizer-options.php:2751
+msgid "Search Results Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:343
+msgid "WooCommerce Pages"
+msgstr ""
+
+#: customizer/customizer-options.php:357
+msgid "Product List / Catalogue Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:372
+msgid "Product Single Page Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:382
+msgid ""
+"Edit the Elation <a href=\"#woocommerce\" rel=\"tc-panel\" "
+"class=\"el-interlink\">WooCommerce Settings</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:394
+#: customizer/customizer-options.php:421
+msgid "Site Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:403
+msgid "Website Width"
+msgstr ""
+
+#: customizer/customizer-options.php:415
+msgid "Boxed Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:416
+#: customizer/customizer-options.php:4811
+#: customizer/customizer-options.php:4959
+msgid "Full Width Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:417
+msgid "Full Width Blocked Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:428
+msgid "Default / Large"
+msgstr ""
+
+#: customizer/customizer-options.php:429
+#: customizer/customizer-options.php:545
+#: customizer/customizer-options.php:4477
+msgid "Medium"
+msgstr ""
+
+#: customizer/customizer-options.php:430
+#: customizer/customizer-options.php:544
+msgid "Small"
+msgstr ""
+
+#: customizer/customizer-options.php:431
+msgid "Smaller"
+msgstr ""
+
+#: customizer/customizer-options.php:432
+msgid "Borders"
+msgstr ""
+
+#: customizer/customizer-options.php:433
+#: customizer/customizer-options.php:504
+#: customizer/customizer-options.php:1251
+#: customizer/customizer-options.php:1899
+#: customizer/customizer-options.php:2922
+msgid "None"
+msgstr ""
+
+#: customizer/customizer-options.php:437
+msgid "Site Shadows"
+msgstr ""
+
+#: customizer/customizer-options.php:446
+msgid "Break Content & Widget areas apart"
+msgstr ""
+
+#: customizer/customizer-options.php:453
+msgid "Break Widgets apart"
+msgstr ""
+
+#: customizer/customizer-options.php:460
+msgid "Set Top Bar to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:467
+msgid "Set Header to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:474
+msgid "Set All Content Areas to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:481
+msgid "Set Footer to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:488
+msgid "Set Bottom Bar to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:499
+msgid "Website Page Loader"
+msgstr ""
+
+#: customizer/customizer-options.php:505
+msgid "Full Site Loader"
+msgstr ""
+
+#: customizer/customizer-options.php:509
+#: inc/admin/tpl/admin-page.php:140
+#: inc/admin/tpl/admin-page.php:141
+msgid "Website Loader"
+msgstr ""
+
+#: customizer/customizer-options.php:516
+msgid "On All Page Loads"
+msgstr ""
+
+#: customizer/customizer-options.php:517
+msgid "Only on Home Page"
+msgstr ""
+
+#: customizer/customizer-options.php:518
+msgid "Only on Initial Site load"
+msgstr ""
+
+#: customizer/customizer-options.php:522
+msgid "Show Site Loader"
+msgstr ""
+
+#: customizer/customizer-options.php:529
+msgid "Circular With BG"
+msgstr ""
+
+#: customizer/customizer-options.php:530
+msgid "Plain Circular"
+msgstr ""
+
+#: customizer/customizer-options.php:531
+msgid "Circular - 2 Egdes"
+msgstr ""
+
+#: customizer/customizer-options.php:532
+msgid "Circular Pulsing"
+msgstr ""
+
+#: customizer/customizer-options.php:533
+msgid "Border"
+msgstr ""
+
+#: customizer/customizer-options.php:537
+msgid "Loader Design"
+msgstr ""
+
+#: customizer/customizer-options.php:546
+msgid "Large"
+msgstr ""
+
+#: customizer/customizer-options.php:550
+msgid "Loader Size"
+msgstr ""
+
+#: customizer/customizer-options.php:558
+msgid "Loader Color"
+msgstr ""
+
+#: customizer/customizer-options.php:565
+#: customizer/customizer-options.php:3852
+#: customizer/customizer-options.php:3873
+#: customizer/customizer-options.php:3908
+#: customizer/customizer-options.php:3974
+#: customizer/customizer-options.php:4024
+#: customizer/customizer-options.php:4155
+#: customizer/customizer-options.php:4204
+#: customizer/customizer-options.php:5006
+#: customizer/customizer-options.php:5251
+msgid "Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:573
+msgid "Background Opacity"
+msgstr ""
+
+#: customizer/customizer-options.php:586
+msgid "Add Loader Border"
+msgstr ""
+
+#: customizer/customizer-options.php:601
+#: customizer/customizer-options.php:726
+#: customizer/customizer-options.php:3207
+#: customizer/customizer-options.php:3671
+#: customizer/customizer-options.php:3837
+#: customizer/customizer-options.php:3866
+#: customizer/customizer-options.php:5036
+#: customizer/customizer-options.php:5044
+msgid "Header"
+msgstr ""
+
+#: customizer/customizer-options.php:611
+msgid ""
+"Ajust the following header settings, then <a href="
+"\"#elation-panel-mobile-settings\" rel=\"tc-panel\" class="
+"\"el-interlink\">Edit the Mobile Settings</a> <a href="
+"\"#elation-panel-social-section-links\" rel=\"tc-section\" "
+"class=\"el-interlink\">Add Social Links</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:616
+msgid "Header Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:624
+msgid "Switch Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:631
+msgid "Center Top Bar Items"
+msgstr ""
+
+#: customizer/customizer-options.php:640
+msgid ""
+"Turn on the Header Top Bar for extra <a href=\"#elation-"
+"panel-edit-text-section-topbar\" rel=\"tc-section\">header "
+"details</a>, <a href=\"#elation-panel-social-section-links"
+"\" rel=\"tc-section\">Social Links</a> and menus."
+msgstr ""
+
+#: customizer/customizer-options.php:645
+#: customizer/customizer-options.php:1798
+#: customizer/customizer-options.php:2072
+msgid "Remove Social Icons"
+msgstr ""
+
+#: customizer/customizer-options.php:652
+msgid "Remove Phone Number"
+msgstr ""
+
+#: customizer/customizer-options.php:659
+#: customizer/customizer-options.php:2100
+msgid "Remove Address"
+msgstr ""
+
+#: customizer/customizer-options.php:666
+msgid "Add Top Bar Search"
+msgstr ""
+
+#: customizer/customizer-options.php:674
+#: customizer/customizer-options.php:950
+#: customizer/customizer-options.php:2050
+msgid "Add WooCommerce Cart"
+msgstr ""
+
+#: customizer/customizer-options.php:684
+#: customizer/customizer-options.php:960
+msgid "Add Drop Down Full Cart"
+msgstr ""
+
+#: customizer/customizer-options.php:698
+msgid "Spacing above Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:712
+msgid "Spacing below Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:735
+msgid ""
+"Upload a Site Logo under <a href=\"#title_tagline\" rel="
+"\"tc-section\" class=\"el-interlink\">Site Identity</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:740
+msgid "Change to Centered Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:746
+msgid "Center Aligned"
+msgstr ""
+
+#: customizer/customizer-options.php:747
+msgid "Left Aligned"
+msgstr ""
+
+#: customizer/customizer-options.php:748
+msgid "Right Aligned"
+msgstr ""
+
+#: customizer/customizer-options.php:752
+msgid "Header Alignment"
+msgstr ""
+
+#: customizer/customizer-options.php:760
+msgid "Search Button - Slide Down"
+msgstr ""
+
+#: customizer/customizer-options.php:761
+msgid "Search Button - Fade In"
+msgstr ""
+
+#: customizer/customizer-options.php:762
+msgid "Always Showing"
+msgstr ""
+
+#: customizer/customizer-options.php:763
+msgid "Overlay on Site"
+msgstr ""
+
+#: customizer/customizer-options.php:764
+msgid "Text overlay on Site"
+msgstr ""
+
+#: customizer/customizer-options.php:765
+msgid "Plugin Shortcode"
+msgstr ""
+
+#: customizer/customizer-options.php:769
+msgid "Search Type"
+msgstr ""
+
+#: customizer/customizer-options.php:777
+#: customizer/customizer-options.php:1312
+msgid "Shortcode"
+msgstr ""
+
+#: customizer/customizer-options.php:785
+msgid ""
+"Enter the shortcode provided by a more advanced search "
+"plugin of your choice."
+msgstr ""
+
+#: customizer/customizer-options.php:790
+msgid "$20.00 (4 items)"
+msgstr ""
+
+#: customizer/customizer-options.php:791
+msgid "$20.00 (4)"
+msgstr ""
+
+#: customizer/customizer-options.php:792
+msgid "$20.00"
+msgstr ""
+
+#: customizer/customizer-options.php:793
+msgid "5 items"
+msgstr ""
+
+#: customizer/customizer-options.php:794
+msgid "(5)"
+msgstr ""
+
+#: customizer/customizer-options.php:798
+msgid "Cart Design"
+msgstr ""
+
+#: customizer/customizer-options.php:809
+msgid "Header Inner Top Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:823
+msgid "Header Inner Bottom Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:837
+msgid "Spacing Below Header"
+msgstr ""
+
+#: customizer/customizer-options.php:852
+#: customizer/customizer-options.php:860
+msgid "Header Background Image"
+msgstr ""
+
+#: customizer/customizer-options.php:863
+#: customizer/customizer-options.php:1969
+msgid "Note this works better as a long horizontal image."
+msgstr ""
+
+#: customizer/customizer-options.php:866
+#: customizer/customizer-options.php:1972
+msgid "No Repeat"
+msgstr ""
+
+#: customizer/customizer-options.php:867
+#: customizer/customizer-options.php:1973
+msgid "Repeat Horizonally"
+msgstr ""
+
+#: customizer/customizer-options.php:868
+#: customizer/customizer-options.php:1974
+msgid "Repeat Vertically"
+msgstr ""
+
+#: customizer/customizer-options.php:869
+#: customizer/customizer-options.php:1975
+msgid "Repeat Both"
+msgstr ""
+
+#: customizer/customizer-options.php:873
+#: customizer/customizer-options.php:1979
+msgid "Repeat Image"
+msgstr ""
+
+#: customizer/customizer-options.php:880
+#: customizer/customizer-options.php:1986
+#: inc/basic-slider/slider.php:146
+#: inc/basic-slider/slider.php:218
+#: inc/basic-slider/slider.php:289
+msgid "Top Left"
+msgstr ""
+
+#: customizer/customizer-options.php:881
+#: customizer/customizer-options.php:1987
+#: inc/basic-slider/slider.php:147
+#: inc/basic-slider/slider.php:219
+#: inc/basic-slider/slider.php:290
+msgid "Top Center"
+msgstr ""
+
+#: customizer/customizer-options.php:882
+#: customizer/customizer-options.php:1988
+#: inc/basic-slider/slider.php:148
+#: inc/basic-slider/slider.php:220
+#: inc/basic-slider/slider.php:291
+msgid "Top Right"
+msgstr ""
+
+#: customizer/customizer-options.php:883
+#: customizer/customizer-options.php:1989
+msgid "Center Left"
+msgstr ""
+
+#: customizer/customizer-options.php:884
+#: customizer/customizer-options.php:1990
+msgid "Center Center"
+msgstr ""
+
+#: customizer/customizer-options.php:885
+#: customizer/customizer-options.php:1991
+msgid "Center Right"
+msgstr ""
+
+#: customizer/customizer-options.php:886
+#: customizer/customizer-options.php:1992
+#: inc/basic-slider/slider.php:152
+#: inc/basic-slider/slider.php:224
+#: inc/basic-slider/slider.php:295
+msgid "Bottom Left"
+msgstr ""
+
+#: customizer/customizer-options.php:887
+#: customizer/customizer-options.php:1993
+#: inc/basic-slider/slider.php:153
+#: inc/basic-slider/slider.php:225
+#: inc/basic-slider/slider.php:296
+msgid "Bottom Center"
+msgstr ""
+
+#: customizer/customizer-options.php:888
+#: customizer/customizer-options.php:1994
+#: inc/basic-slider/slider.php:154
+#: inc/basic-slider/slider.php:226
+#: inc/basic-slider/slider.php:297
+msgid "Bottom Right"
+msgstr ""
+
+#: customizer/customizer-options.php:892
+#: customizer/customizer-options.php:1998
+msgid "Align Image"
+msgstr ""
+
+#: customizer/customizer-options.php:900
+msgid "Make Top Bar Transparent"
+msgstr ""
+
+#: customizer/customizer-options.php:908
+#: customizer/customizer-options.php:3250
+msgid "Main Navigation"
+msgstr ""
+
+#: customizer/customizer-options.php:917
+msgid ""
+"Are you using <a href=\"https://wordpress.org/plugins/"
+"megamenu/\" target=\"_blank\">Mega Menu</a> instead? Then "
+"simply <a href=\"#elation-section-plugin-support\" rel="
+"\"tc-section\" class=\"el-interlink\">Enable Mega Menu "
+"here</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:921
+msgid "Remove Main Navigation"
+msgstr ""
+
+#: customizer/customizer-options.php:927
+#: customizer/customizer-options.php:1804
+msgid "Plain"
+msgstr ""
+
+#: customizer/customizer-options.php:928
+msgid "Solid"
+msgstr ""
+
+#: customizer/customizer-options.php:929
+msgid "Underlined"
+msgstr ""
+
+#: customizer/customizer-options.php:930
+msgid "Blocks"
+msgstr ""
+
+#: customizer/customizer-options.php:934
+msgid "Navigation Style"
+msgstr ""
+
+#: customizer/customizer-options.php:942
+msgid "Align Items to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:972
+msgid "Add Search to Navigation"
+msgstr ""
+
+#: customizer/customizer-options.php:979
+msgid "Advanced Navigation Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:987
+msgid "Top Level Items - Top Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1001
+msgid "Top Level Items - Bottom Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1015
+msgid "Top Level Items - Side Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1029
+msgid "Top Level Items - Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:1043
+msgid "Drop Down Items - Side Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1057
+msgid "Drop Down Items - Top/Bottom Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1071
+msgid "Drop Down Items - Min-Width"
+msgstr ""
+
+#: customizer/customizer-options.php:1084
+msgid "Drop Down - Center Align Items"
+msgstr ""
+
+#: customizer/customizer-options.php:1091
+msgid "Drop Down - Negative Margin"
+msgstr ""
+
+#: customizer/customizer-options.php:1094
+msgid ""
+"This is a manual setting to position the first dropdown to "
+"be centered to the top level item."
+msgstr ""
+
+#: customizer/customizer-options.php:1101
+msgid ""
+"Edit Elation <a href=\"#elation-panel-mobile-section-colors"
+"\" rel=\"tc-section\" class=\"el-interlink\">Mobile "
+"Navigation Settings</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:1109
+#: customizer/customizer-options.php:3967
+#: inc/admin/tpl/admin-page.php:182
+#: inc/admin/tpl/admin-page.php:183
+msgid "Sticky Header"
+msgstr ""
+
+#: customizer/customizer-options.php:1118
+msgid "Remove Logo & Site Branding"
+msgstr ""
+
+#: customizer/customizer-options.php:1125
+msgid "Remove Logo Image"
+msgstr ""
+
+#: customizer/customizer-options.php:1132
+msgid "Remove Site Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1139
+msgid "Remove Site Tagline"
+msgstr ""
+
+#: customizer/customizer-options.php:1146
+msgid "Center Align Navigation"
+msgstr ""
+
+#: customizer/customizer-options.php:1153
+msgid "Align Items Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:1161
+msgid "Logo Width"
+msgstr ""
+
+#: customizer/customizer-options.php:1175
+msgid "Site Title - Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:1189
+msgid "Site Tagline - Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:1203
+msgid "Navigation - Top & Bottom Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1217
+msgid "Navigation - Side Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1230
+msgid "Align Elements to baseline"
+msgstr ""
+
+#: customizer/customizer-options.php:1244
+msgid "Home Slider / Custom Header"
+msgstr ""
+
+#: customizer/customizer-options.php:1252
+msgid "Custom Header"
+msgstr ""
+
+#: customizer/customizer-options.php:1253
+msgid "Page Featured Image"
+msgstr ""
+
+#: customizer/customizer-options.php:1254
+#: inc/basic-slider/slider.php:47
+msgid "Slider Shortcode"
+msgstr ""
+
+#: customizer/customizer-options.php:1258
+msgid "Media Type"
+msgstr ""
+
+#: customizer/customizer-options.php:1270
+msgid ""
+"No media is shown in the header<br /><br />You can select "
+"between using:<br />- A Custom Header<br />- The Page "
+"Featured Image<br />- The Elation Basic Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:1278
+msgid ""
+"You can now <a href=\"header_image\" rel=\"tc-section"
+"\">add a Custom Header or Video here</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:1286
+msgid ""
+"Go to each page in your dashboard to add a Featured Image "
+"which will display at the top of each page."
+msgstr ""
+
+#: customizer/customizer-options.php:1289
+#: inc/basic-slider/slider.php:358
+msgid "Actual Image"
+msgstr ""
+
+#: customizer/customizer-options.php:1290
+msgid "Small Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:1291
+msgid "Medium Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:1292
+msgid "Large Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:1296
+msgid "Featured Image Proportions"
+msgstr ""
+
+#: customizer/customizer-options.php:1308
+msgid ""
+"Enter any shortcode provided by the slider plugin of your "
+"choice."
+msgstr ""
+
+#: customizer/customizer-options.php:1319
+msgid "Display on All Pages"
+msgstr ""
+
+#: customizer/customizer-options.php:1323
+msgid "By default it only displays on the Home Page"
+msgstr ""
+
+#: customizer/customizer-options.php:1330
+#, php-format
+msgid ""
+"Turn on Elation Sliders at the top.<br /><br />You can now "
+"%1$s and enter a separate shortcode when editing each page."
+"<br /><br />Add a slider shortcode to the input above to "
+"set a default slider for if a page does not have a slider "
+"added. Leave it blank for no slider to show by default."
+msgstr ""
+
+#: customizer/customizer-options.php:1334
+msgid "Set Media to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:1342
+msgid "Add Image Overlay"
+msgstr ""
+
+#: customizer/customizer-options.php:1349
+msgid "Elation Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1357
+msgid "Elation Opacity"
+msgstr ""
+
+#: customizer/customizer-options.php:1374
+#: customizer/customizer-options.php:1430
+#: customizer/customizer-options.php:3417
+#: customizer/customizer-options.php:4009
+#: customizer/customizer-options.php:4045
+msgid "Content Area"
+msgstr ""
+
+#: customizer/customizer-options.php:1382
+msgid "Page Title(s)"
+msgstr ""
+
+#: customizer/customizer-options.php:1390
+msgid "Remove All Page Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:1396
+msgid "Default / Basic Page Header"
+msgstr ""
+
+#: customizer/customizer-options.php:1397
+msgid "Basic Page Header 2"
+msgstr ""
+
+#: customizer/customizer-options.php:1398
+msgid "Banner Header Page Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1399
+msgid "Featured Image with Title Overlay"
+msgstr ""
+
+#: customizer/customizer-options.php:1403
+msgid "Page Title Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:1413
+msgid ""
+"You need to <a href=\"#elation-panel-settings-section-"
+"header-media\" rel=\"tc-section\">Use a Custom Header or "
+"Page Featured Image here</a> to see the page titles... And "
+"add an <a href=\"#elation-panel-settings-section-header-"
+"media\" rel=\"tc-section\">Image Overlay here</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:1419
+msgid ""
+"You can add a site BreadCrumbs anywhere by using the "
+"shortcode:<br /><b>[elation_breadcrumb fontsize=\"14\"]</"
+"b><br />Requires the Breadcrumb NavXT plugin."
+msgstr ""
+
+#: customizer/customizer-options.php:1425
+msgid ""
+"Edit <a href=\"#elation-panel-font-settings-section-title"
+"\" rel=\"tc-section\">Page Title Font Sizes</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:1438
+msgid "Remove Content/Widget Divider Line"
+msgstr ""
+
+#: customizer/customizer-options.php:1447
+msgid "Top Margin"
+msgstr ""
+
+#: customizer/customizer-options.php:1462
+#: customizer/customizer-options.php:1576
+msgid "Top Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1476
+#: customizer/customizer-options.php:1590
+msgid "Left Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1490
+#: customizer/customizer-options.php:1604
+msgid "Right Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1504
+#: customizer/customizer-options.php:1618
+msgid "Bottom Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1522
+#: customizer/customizer-options.php:3453
+#: customizer/customizer-options.php:4080
+msgid "Widget Area"
+msgstr ""
+
+#: customizer/customizer-options.php:1531
+msgid "Widget Area Width"
+msgstr ""
+
+#: customizer/customizer-options.php:1547
+msgid "Make Widget Area Sticky"
+msgstr ""
+
+#: customizer/customizer-options.php:1550
+msgid ""
+"This only works with the Right Sidebar & Left Sidebar page "
+"templates."
+msgstr ""
+
+#: customizer/customizer-options.php:1561
+msgid "Widget Area Top Margin"
+msgstr ""
+
+#: customizer/customizer-options.php:1632
+msgid "Widgets"
+msgstr ""
+
+#: customizer/customizer-options.php:1640
+msgid "Widgets Bottom Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:1652
+msgid "Default / Basic"
+msgstr ""
+
+#: customizer/customizer-options.php:1653
+msgid "Underlined Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1654
+msgid "Dotted Underline Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1655
+msgid "Short Underlined Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1656
+msgid "Sidelined Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1657
+msgid "Border Outlined Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1661
+msgid "Widget Title Styling"
+msgstr ""
+
+#: customizer/customizer-options.php:1669
+msgid "Center Align Widgets"
+msgstr ""
+
+#: customizer/customizer-options.php:1681
+#: customizer/customizer-options.php:1689
+#: customizer/customizer-options.php:3529
+#: customizer/customizer-options.php:3537
+#: customizer/customizer-options.php:3717
+#: customizer/customizer-options.php:4140
+#: customizer/customizer-options.php:4148
+#: customizer/customizer-options.php:5123
+msgid "Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1695
+msgid "Custom/Widgets Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1696
+msgid "Social Icons Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1697
+msgid "Menu & Social Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1698
+msgid "Basic Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1699
+msgid "Widget Split Layout Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1700
+msgid "Remove Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1704
+msgid "Footer Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:1716
+msgid ""
+"The Custom Footer is built with <i><a href=\"#widgets\" "
+"rel=\"tc-panel\">Widgets</a></i>, or go to Dashboard -> "
+"Appearance -> Widgets"
+msgstr ""
+
+#: customizer/customizer-options.php:1719
+msgid "1 Column"
+msgstr ""
+
+#: customizer/customizer-options.php:1720
+msgid "2 Columns"
+msgstr ""
+
+#: customizer/customizer-options.php:1721
+msgid "3 Columns"
+msgstr ""
+
+#: customizer/customizer-options.php:1722
+msgid "4 Columns"
+msgstr ""
+
+#: customizer/customizer-options.php:1723
+msgid "5 Columns"
+msgstr ""
+
+#: customizer/customizer-options.php:1727
+msgid "Columns"
+msgstr ""
+
+#: customizer/customizer-options.php:1736
+msgid "Custom Widths"
+msgstr ""
+
+#: customizer/customizer-options.php:1739
+msgid ""
+"Select this box to manually adjust the columns widths by "
+"percentage ( % )"
+msgstr ""
+
+#: customizer/customizer-options.php:1745
+msgid "Column 1 %"
+msgstr ""
+
+#: customizer/customizer-options.php:1751
+msgid "Center Column"
+msgstr ""
+
+#: customizer/customizer-options.php:1754
+msgid "Reduce the width of the column to center it"
+msgstr ""
+
+#: customizer/customizer-options.php:1759
+msgid "Column 2 %"
+msgstr ""
+
+#: customizer/customizer-options.php:1765
+msgid "Column 3 %"
+msgstr ""
+
+#: customizer/customizer-options.php:1771
+msgid "Column 4 %"
+msgstr ""
+
+#: customizer/customizer-options.php:1777
+msgid "Column 5 %"
+msgstr ""
+
+#: customizer/customizer-options.php:1787
+msgid ""
+"Add your <a href=\"#elation-panel-social-section-links\" "
+"rel=\"tc-section\">Social links</a> to the footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1791
+msgid "Footer Navigation Vertical"
+msgstr ""
+
+#: customizer/customizer-options.php:1805
+#: customizer/customizer-options.php:4285
+#: inc/basic-slider/slider.php:344
+msgid "Round"
+msgstr ""
+
+#: customizer/customizer-options.php:1806
+#: customizer/customizer-options.php:4284
+msgid "Rounded"
+msgstr ""
+
+#: customizer/customizer-options.php:1807
+#: customizer/customizer-options.php:4283
+#: inc/basic-slider/slider.php:345
+msgid "Square"
+msgstr ""
+
+#: customizer/customizer-options.php:1808
+msgid "Circled"
+msgstr ""
+
+#: customizer/customizer-options.php:1812
+msgid "Social Icons Style"
+msgstr ""
+
+#: customizer/customizer-options.php:1821
+#: customizer/customizer-options.php:3236
+#: customizer/customizer-options.php:3639
+msgid "Social Icons Size"
+msgstr ""
+
+#: customizer/customizer-options.php:1835
+msgid "Social Icons Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:1852
+msgid ""
+"This Footer layout is divided into columns by the amount "
+"of widgets that are added under<br /><i>Dashboard -> "
+"Appearance -> <a href=\"#widgets\" rel=\"tc-panel"
+"\">Widgets</a></i>"
+msgstr ""
+
+#: customizer/customizer-options.php:1859
+msgid "Widget Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:1873
+msgid "Widget Bottom Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:1888
+msgid "Stretch"
+msgstr ""
+
+#: customizer/customizer-options.php:1892
+msgid "Vertically Align Footer Widgets"
+msgstr ""
+
+#: customizer/customizer-options.php:1900
+msgid "Line"
+msgstr ""
+
+#: customizer/customizer-options.php:1901
+msgid "Short Line"
+msgstr ""
+
+#: customizer/customizer-options.php:1902
+msgid "Short Dotted Line"
+msgstr ""
+
+#: customizer/customizer-options.php:1906
+msgid "Footer Widgets Divider"
+msgstr ""
+
+#: customizer/customizer-options.php:1916
+msgid "Footer Top Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:1930
+msgid "Footer Inner Top Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1944
+msgid "Footer Inner Bottom Padding"
+msgstr ""
+
+#: customizer/customizer-options.php:1959
+msgid "Add a Footer Background Image"
+msgstr ""
+
+#: customizer/customizer-options.php:1966
+msgid "Footer Background Image"
+msgstr ""
+
+#: customizer/customizer-options.php:2006
+msgid "Make Bottom Bar Transparent"
+msgstr ""
+
+#: customizer/customizer-options.php:2015
+msgid "Footer Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2025
+msgid "Remove Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2035
+msgid "Default Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2036
+msgid "Centered Social Icons Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2037
+msgid "Centered Menu Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2041
+msgid "Bottom Bar Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2060
+msgid "Add WooCommerce Full Cart Widget"
+msgstr ""
+
+#: customizer/customizer-options.php:2082
+msgid "Remove Copyright Text"
+msgstr ""
+
+#: customizer/customizer-options.php:2089
+msgid "Remove Extra Text"
+msgstr ""
+
+#: customizer/customizer-options.php:2107
+msgid "Switch Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2115
+msgid "Spacing above Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2129
+msgid "Spacing below Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:2142
+msgid "Center the bottom bar contents"
+msgstr ""
+
+#: customizer/customizer-options.php:2153
+msgid "Site Back To Top button"
+msgstr ""
+
+#: customizer/customizer-options.php:2159
+msgid "Square Button"
+msgstr ""
+
+#: customizer/customizer-options.php:2160
+msgid "Round Button"
+msgstr ""
+
+#: customizer/customizer-options.php:2161
+msgid "Just the Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:2165
+msgid "'Back To Top' button Style"
+msgstr ""
+
+#: customizer/customizer-options.php:2172
+msgid "Default Angle Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:2173
+msgid "Arrow Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:2174
+msgid "Caret Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:2175
+msgid "Circle Arrow Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:2179
+msgid "'Back To Top' Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:2189
+msgid "Site By/Built By Link"
+msgstr ""
+
+#: customizer/customizer-options.php:2195
+msgid "Small Corner Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:2196
+msgid "Plain Text Below Site"
+msgstr ""
+
+#: customizer/customizer-options.php:2200
+msgid "Siteby Style"
+msgstr ""
+
+#: customizer/customizer-options.php:2208
+msgid "Full URL to link to"
+msgstr ""
+
+#: customizer/customizer-options.php:2211
+msgid "https://kairaweb.com/"
+msgstr ""
+
+#: customizer/customizer-options.php:2215
+msgid "Open in a New Tab"
+msgstr ""
+
+#: customizer/customizer-options.php:2222
+msgid "Upload Logo Image"
+msgstr ""
+
+#: customizer/customizer-options.php:2225
+msgid ""
+"The Logo Image works best as square and needs to be at "
+"least 150 × 150 pixels."
+msgstr ""
+
+#: customizer/customizer-options.php:2229
+msgid "Text before Company Name"
+msgstr ""
+
+#: customizer/customizer-options.php:2232
+msgid "Site built by"
+msgstr ""
+
+#: customizer/customizer-options.php:2236
+msgid "Company Name"
+msgstr ""
+
+#: customizer/customizer-options.php:2239
+#: inc/basic-slider/slider.php:336
+msgid "Kaira"
+msgstr ""
+
+#: customizer/customizer-options.php:2250
+msgid "404 Error Page"
+msgstr ""
+
+#: customizer/customizer-options.php:2256
+msgid "Default - Image/Ban Sign on Top"
+msgstr ""
+
+#: customizer/customizer-options.php:2257
+msgid "Image/Ban Sign at the Bottom"
+msgstr ""
+
+#: customizer/customizer-options.php:2258
+msgid "Image/Ban Sign in Center"
+msgstr ""
+
+#: customizer/customizer-options.php:2262
+msgid "404 Page Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2271
+msgid "Upload Error Image"
+msgstr ""
+
+#: customizer/customizer-options.php:2274
+msgid "This will replace the circle \"ban\" sign"
+msgstr ""
+
+#: customizer/customizer-options.php:2279
+msgid "Remove 404 Title"
+msgstr ""
+
+#: customizer/customizer-options.php:2286
+msgid "Remove Image / Ban Sign"
+msgstr ""
+
+#: customizer/customizer-options.php:2293
+msgid "Remove 404 Text"
+msgstr ""
+
+#: customizer/customizer-options.php:2300
+#: customizer/customizer-options.php:5058
+msgid "Remove Search"
+msgstr ""
+
+#: customizer/customizer-options.php:2307
+msgid "Remove Home Button"
+msgstr ""
+
+#: customizer/customizer-options.php:2315
+#: customizer/customizer-options.php:3312
+#: customizer/customizer-options.php:4017
+msgid "Page Title"
+msgstr ""
+
+#: customizer/customizer-options.php:2318
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: customizer/customizer-options.php:2322
+msgid "Page Text"
+msgstr ""
+
+#: customizer/customizer-options.php:2325
+msgid ""
+"It looks like nothing was found at this location. Maybe "
+"try a search below, or return to home."
+msgstr ""
+
+#: customizer/customizer-options.php:2333
+msgid "Elation Blog Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:2341
+#: customizer/customizer-options.php:4115
+msgid "Blog List"
+msgstr ""
+
+#: customizer/customizer-options.php:2348
+#: customizer/customizer-options.php:2744
+msgid "Left Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2349
+#: customizer/customizer-options.php:2745
+msgid "Right Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2350
+#: customizer/customizer-options.php:2746
+msgid "Alternate Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2351
+#: customizer/customizer-options.php:2747
+msgid "Top Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2352
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2353
+msgid "Tiled Blocks Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2357
+msgid "Blog Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2365
+msgid "Break out of the content"
+msgstr ""
+
+#: customizer/customizer-options.php:2372
+msgid "Vertically Center Image & Content"
+msgstr ""
+
+#: customizer/customizer-options.php:2379
+msgid "Center Align Post Content"
+msgstr ""
+
+#: customizer/customizer-options.php:2387
+msgid "Post Bottom Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:2400
+msgid "Grid Columns"
+msgstr ""
+
+#: customizer/customizer-options.php:2408
+msgid "2 <b>|</b> 3 <b>|</b> 4 <b>|</b> 5"
+msgstr ""
+
+#: customizer/customizer-options.php:2414
+msgid "Grid Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:2427
+msgid "Post Thumbnail"
+msgstr ""
+
+#: customizer/customizer-options.php:2428
+msgid "Actual Image / Image Cut"
+msgstr ""
+
+#: customizer/customizer-options.php:2429
+#: inc/basic-slider/slider.php:359
+msgid "Square Image (1:1)"
+msgstr ""
+
+#: customizer/customizer-options.php:2430
+#: inc/basic-slider/slider.php:360
+msgid "Standard (3:2)"
+msgstr ""
+
+#: customizer/customizer-options.php:2431
+#: inc/basic-slider/slider.php:361
+msgid "Micro Four-Thirds (4:3)"
+msgstr ""
+
+#: customizer/customizer-options.php:2432
+msgid "Round Image"
+msgstr ""
+
+#: customizer/customizer-options.php:2436
+msgid "Image Proportion"
+msgstr ""
+
+#: customizer/customizer-options.php:2444
+msgid "Image Cut to use"
+msgstr ""
+
+#: customizer/customizer-options.php:2447
+msgid ""
+"Select which cut the Blog list uses<br />Recommended: "
+"Optimize images before upload"
+msgstr ""
+
+#: customizer/customizer-options.php:2453
+msgid "Turn off Post Content"
+msgstr ""
+
+#: customizer/customizer-options.php:2460
+#: customizer/customizer-options.php:2858
+msgid "Default Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2461
+#: customizer/customizer-options.php:2859
+msgid "Display Meta at the Top"
+msgstr ""
+
+#: customizer/customizer-options.php:2462
+#: customizer/customizer-options.php:2860
+msgid "Display Meta at the Bottom"
+msgstr ""
+
+#: customizer/customizer-options.php:2466
+#: customizer/customizer-options.php:2864
+msgid "Post Meta Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2474
+#: customizer/customizer-options.php:2879
+msgid "Post Meta - Italics"
+msgstr ""
+
+#: customizer/customizer-options.php:2481
+#: customizer/customizer-options.php:2886
+msgid "Post Meta - Icons"
+msgstr ""
+
+#: customizer/customizer-options.php:2489
+msgid "Remove Title"
+msgstr ""
+
+#: customizer/customizer-options.php:2496
+#: customizer/customizer-options.php:2893
+msgid "Remove Posted Date"
+msgstr ""
+
+#: customizer/customizer-options.php:2503
+#: customizer/customizer-options.php:2900
+msgid "Remove Author"
+msgstr ""
+
+#: customizer/customizer-options.php:2510
+msgid "Remove Excerpt"
+msgstr ""
+
+#: customizer/customizer-options.php:2517
+#: customizer/customizer-options.php:2907
+msgid "Remove Post Categories"
+msgstr ""
+
+#: customizer/customizer-options.php:2524
+#: customizer/customizer-options.php:2914
+msgid "Remove Post Tags"
+msgstr ""
+
+#: customizer/customizer-options.php:2531
+msgid "Remove Comments"
+msgstr ""
+
+#: customizer/customizer-options.php:2537
+msgid "Slide In - Bottom"
+msgstr ""
+
+#: customizer/customizer-options.php:2538
+msgid "Slide In - Left"
+msgstr ""
+
+#: customizer/customizer-options.php:2539
+msgid "Slide In - Right"
+msgstr ""
+
+#: customizer/customizer-options.php:2540
+msgid "Fade In"
+msgstr ""
+
+#: customizer/customizer-options.php:2541
+msgid "Grow In"
+msgstr ""
+
+#: customizer/customizer-options.php:2542
+msgid "Zoom Out"
+msgstr ""
+
+#: customizer/customizer-options.php:2546
+msgid "Post Content Animation"
+msgstr ""
+
+#: customizer/customizer-options.php:2553
+msgid "None / Normal"
+msgstr ""
+
+#: customizer/customizer-options.php:2554
+msgid "Black & White | Color on hover"
+msgstr ""
+
+#: customizer/customizer-options.php:2555
+msgid "Blur & Grayscale on hover"
+msgstr ""
+
+#: customizer/customizer-options.php:2556
+msgid "Flash on hover"
+msgstr ""
+
+#: customizer/customizer-options.php:2557
+msgid "Shine on hover"
+msgstr ""
+
+#: customizer/customizer-options.php:2558
+msgid "Circle on hover"
+msgstr ""
+
+#: customizer/customizer-options.php:2562
+msgid "Post Image Style/Animation"
+msgstr ""
+
+#: customizer/customizer-options.php:2572
+msgid "Standard Newer & Older Posts"
+msgstr ""
+
+#: customizer/customizer-options.php:2573
+msgid "Numberic Pagination"
+msgstr ""
+
+#: customizer/customizer-options.php:2574
+msgid "Ajax Load More Button"
+msgstr ""
+
+#: customizer/customizer-options.php:2575
+msgid "Load More on Scroll"
+msgstr ""
+
+#: customizer/customizer-options.php:2579
+msgid "Blog Pagination"
+msgstr ""
+
+#: customizer/customizer-options.php:2587
+msgid "Remove Next & Previous Page links"
+msgstr ""
+
+#: customizer/customizer-options.php:2593
+msgid "Squares"
+msgstr ""
+
+#: customizer/customizer-options.php:2594
+msgid "Squares & Text"
+msgstr ""
+
+#: customizer/customizer-options.php:2595
+msgid "Circles"
+msgstr ""
+
+#: customizer/customizer-options.php:2596
+msgid "Just Numbers"
+msgstr ""
+
+#: customizer/customizer-options.php:2600
+msgid "Blog Pagination Style"
+msgstr ""
+
+#: customizer/customizer-options.php:2608
+msgid "Button Text"
+msgstr ""
+
+#: customizer/customizer-options.php:2611
+msgid "Load More Posts"
+msgstr ""
+
+#: customizer/customizer-options.php:2614
+msgid "Plain Grey"
+msgstr ""
+
+#: customizer/customizer-options.php:2615
+msgid "Outline"
+msgstr ""
+
+#: customizer/customizer-options.php:2616
+#: customizer/customizer-options.php:3812
+msgid "Theme Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:2620
+msgid "Button Style"
+msgstr ""
+
+#: customizer/customizer-options.php:2628
+msgid "Full Width Button"
+msgstr ""
+
+#: customizer/customizer-options.php:2640
+msgid "Blog Excerpt / Shortened Content"
+msgstr ""
+
+#: customizer/customizer-options.php:2650
+msgid ""
+"The Blog will use the Post Excerpt if one is set, if not, "
+"then it uses the full post.<br /><a href=\"https://"
+"kairaweb.com/documentation/using-the-wordpress-post-"
+"excerpt/\" target=\"_blank\">Read More here</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:2656
+msgid "Use Post Excerpt"
+msgstr ""
+
+#: customizer/customizer-options.php:2657
+msgid "Elation Shortened Content"
+msgstr ""
+
+#: customizer/customizer-options.php:2661
+msgid "Excerpt / Shortened Content"
+msgstr ""
+
+#: customizer/customizer-options.php:2673
+#, php-format
+msgid "%1$s on adding a Post Excerpt."
+msgstr ""
+
+#: customizer/customizer-options.php:2677
+msgid "Amount of Words to Display"
+msgstr ""
+
+#: customizer/customizer-options.php:2684
+msgid "'Read More' Text"
+msgstr ""
+
+#: customizer/customizer-options.php:2687
+msgid "...Read More"
+msgstr ""
+
+#: customizer/customizer-options.php:2691
+msgid "Turn 'Read More' into a Button"
+msgstr ""
+
+#: customizer/customizer-options.php:2702
+msgid "Archives / Categories List"
+msgstr ""
+
+#: customizer/customizer-options.php:2708
+msgid "Remove text before Archive Title"
+msgstr ""
+
+#: customizer/customizer-options.php:2718
+msgid ""
+"This will remove the Pre-Title text when on a category/tag "
+"archive page"
+msgstr ""
+
+#: customizer/customizer-options.php:2731
+msgid "Remove 'Pages' from WP Search Results"
+msgstr ""
+
+#: customizer/customizer-options.php:2738
+msgid "Change Search Results to a basic Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2764
+msgid "Blog List Advanced Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:2772
+msgid "Blog Title Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:2785
+msgid "Blog Title - Font Weight"
+msgstr ""
+
+#: customizer/customizer-options.php:2794
+msgid "Blog Title Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:2808
+msgid "Blog Post Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:2821
+msgid "Image / Content Size"
+msgstr ""
+
+#: customizer/customizer-options.php:2824
+msgid "This only applies to Left, Right & Alternate layouts"
+msgstr ""
+
+#: customizer/customizer-options.php:2838
+msgid "Blog Single Post"
+msgstr ""
+
+#: customizer/customizer-options.php:2845
+msgid "Below Title"
+msgstr ""
+
+#: customizer/customizer-options.php:2846
+msgid "Above Title"
+msgstr ""
+
+#: customizer/customizer-options.php:2847
+msgid "Remove Featured Image"
+msgstr ""
+
+#: customizer/customizer-options.php:2851
+msgid "Featured Image Location"
+msgstr ""
+
+#: customizer/customizer-options.php:2872
+msgid "Side align Post Meta"
+msgstr ""
+
+#: customizer/customizer-options.php:2920
+#: customizer/customizer-options.php:2933
+msgid "Default / Basic Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2921
+msgid "Browser Arrows Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2926
+msgid "Post Navigation Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2934
+msgid "Bubble Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:2938
+msgid "Comments Style"
+msgstr ""
+
+#: customizer/customizer-options.php:2950
+msgid "Add Post Author Block"
+msgstr ""
+
+#: customizer/customizer-options.php:2956
+msgid "Side Layout Block"
+msgstr ""
+
+#: customizer/customizer-options.php:2957
+msgid "Centered Layout Block"
+msgstr ""
+
+#: customizer/customizer-options.php:2958
+msgid "Side Layout Lines"
+msgstr ""
+
+#: customizer/customizer-options.php:2959
+msgid "Centered Layout Lines"
+msgstr ""
+
+#: customizer/customizer-options.php:2963
+msgid "Author Block Style"
+msgstr ""
+
+#: customizer/customizer-options.php:2971
+msgid "Author Text:"
+msgstr ""
+
+#: customizer/customizer-options.php:2974
+msgid "Author:"
+msgstr ""
+
+#: customizer/customizer-options.php:2979
+msgid "Author Block Max-Width"
+msgstr ""
+
+#: customizer/customizer-options.php:2999
+msgid "Elation Font Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:3007
+msgid "Default Site Fonts"
+msgstr ""
+
+#: customizer/customizer-options.php:3015
+msgid "Disable Google Fonts"
+msgstr ""
+
+#: customizer/customizer-options.php:3018
+msgid ""
+"This will remove the connection to Google Fonts and let "
+"you select only web-safe fonts"
+msgstr ""
+
+#: customizer/customizer-options.php:3027
+#: customizer/customizer-options.php:3035
+msgid "Body Font"
+msgstr ""
+
+#: customizer/customizer-options.php:3043
+msgid "Body Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3051
+msgid ""
+"Smaller <b>|</b> Small <b>|</b> Normal <b>|</b> Medium <b>|"
+"</b> Large <b>|</b> Larger"
+msgstr ""
+
+#: customizer/customizer-options.php:3057
+msgid "Body Font Line Height"
+msgstr ""
+
+#: customizer/customizer-options.php:3070
+#: customizer/customizer-options.php:3078
+msgid "Heading Font"
+msgstr ""
+
+#: customizer/customizer-options.php:3086
+msgid "Heading Size Proportions"
+msgstr ""
+
+#: customizer/customizer-options.php:3094
+msgid "Small <b>|</b> Normal <b>|</b> Medium <b>|</b> Large"
+msgstr ""
+
+#: customizer/customizer-options.php:3103
+msgid "Title / Tagline Fonts"
+msgstr ""
+
+#: customizer/customizer-options.php:3111
+#: customizer/customizer-options.php:3126
+msgid "Site Title Font"
+msgstr ""
+
+#: customizer/customizer-options.php:3119
+#: customizer/customizer-options.php:3165
+#: customizer/customizer-options.php:3265
+msgid "Font Style - Uppercase"
+msgstr ""
+
+#: customizer/customizer-options.php:3135
+msgid "Site Title Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3148
+msgid "Site Title - Font Weight"
+msgstr ""
+
+#: customizer/customizer-options.php:3157
+#: customizer/customizer-options.php:3172
+msgid "Site Tagline Font"
+msgstr ""
+
+#: customizer/customizer-options.php:3181
+msgid "Site Tagline Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3194
+msgid "Site Tagline - Font Weight"
+msgstr ""
+
+#: customizer/customizer-options.php:3214
+#: customizer/customizer-options.php:3845
+msgid "Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:3222
+#: customizer/customizer-options.php:3281
+#: customizer/customizer-options.php:3589
+#: customizer/customizer-options.php:3625
+#: customizer/customizer-options.php:5197
+msgid "Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3257
+#: customizer/customizer-options.php:3272
+msgid "Main Navigation Font"
+msgstr ""
+
+#: customizer/customizer-options.php:3295
+msgid "Drop Down Items - Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3321
+msgid "Page Title - Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3335
+#: customizer/customizer-options.php:3474
+#: customizer/customizer-options.php:3559
+msgid "Title - Font Weight"
+msgstr ""
+
+#: customizer/customizer-options.php:3343
+msgid "Page Title - Uppercase"
+msgstr ""
+
+#: customizer/customizer-options.php:3351
+#: customizer/customizer-options.php:3575
+msgid "Title Bottom Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:3365
+msgid "Breadcrumbs - Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3378
+msgid "Breadcrumbs - Uppercase"
+msgstr ""
+
+#: customizer/customizer-options.php:3386
+msgid "Breadcrumbs Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:3401
+msgid ""
+"Edit <a href=\"#elation-panel-settings-section-title\" rel="
+"\"tc-section\">Page Title Settings</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:3409
+msgid "Content"
+msgstr ""
+
+#: customizer/customizer-options.php:3425
+msgid "Content - Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3439
+msgid "Content - Line Height"
+msgstr ""
+
+#: customizer/customizer-options.php:3461
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3483
+msgid "Widgets Title - Bottom Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:3497
+msgid "Widgets - Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3511
+msgid "Widgets - Line Height"
+msgstr ""
+
+#: customizer/customizer-options.php:3545
+msgid "Widget Title Size"
+msgstr ""
+
+#: customizer/customizer-options.php:3567
+msgid "Title - Uppercase"
+msgstr ""
+
+#: customizer/customizer-options.php:3603
+msgid "Line Height"
+msgstr ""
+
+#: customizer/customizer-options.php:3617
+#: customizer/customizer-options.php:4197
+msgid "Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:3652
+msgid "Footer Menu - Uppercase"
+msgstr ""
+
+#: customizer/customizer-options.php:3663
+msgid "Elation Edit Text"
+msgstr ""
+
+#: customizer/customizer-options.php:3680
+#: customizer/customizer-options.php:3727
+msgid ""
+"Use your own icon by adding \"fa-\" and the corrent <a "
+"href=\"https://fontawesome.com/icons?d=gallery&c=buildings,"
+"business,chat,code,date-time,design,editors,maps,marketing,"
+"shapes,travel,writing&m=free\" target=\"_blank\">Font "
+"Awesome</a> class name. Eg: \"fa-phone\"<br /><br />Or "
+"remove the icon by saving an empty input."
+msgstr ""
+
+#: customizer/customizer-options.php:3684
+msgid "Phone Number Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:3687
+msgid "fa-phone"
+msgstr ""
+
+#: customizer/customizer-options.php:3691
+#: customizer/customizer-options.php:4380
+msgid "Phone Number"
+msgstr ""
+
+#: customizer/customizer-options.php:3694
+msgid "Call Us: +2782 444 YEAH"
+msgstr ""
+
+#: customizer/customizer-options.php:3699
+#: customizer/customizer-options.php:3751
+msgid "Address Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:3702
+#: customizer/customizer-options.php:3754
+msgid "fa-map-marker-alt"
+msgstr ""
+
+#: customizer/customizer-options.php:3706
+#: customizer/customizer-options.php:3758
+msgid "Address"
+msgstr ""
+
+#: customizer/customizer-options.php:3709
+#: customizer/customizer-options.php:3761
+msgid "Cape Town, South Africa"
+msgstr ""
+
+#: customizer/customizer-options.php:3734
+msgid "Copyright Text Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:3740
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer/customizer-options.php:3743
+msgid ""
+"Theme: Elation by <a href=\"https://kairaweb.com/"
+"wordpresss-theme/elation/\" target=\"_blank\">Kaira</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:3768
+msgid "Extra Text Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:3771
+msgid "fa-leaf"
+msgstr ""
+
+#: customizer/customizer-options.php:3775
+#: customizer/customizer-options.php:3778
+msgid "Extra Text"
+msgstr ""
+
+#: customizer/customizer-options.php:3789
+msgid "Elation Color Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:3797
+msgid "Default Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:3805
+msgid "Site Boxed/blocks Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3819
+msgid "Primary Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3826
+msgid "Secondary Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3859
+#: customizer/customizer-options.php:3880
+#: customizer/customizer-options.php:3915
+#: customizer/customizer-options.php:3981
+#: customizer/customizer-options.php:4031
+#: customizer/customizer-options.php:4059
+#: customizer/customizer-options.php:4094
+#: customizer/customizer-options.php:4169
+#: customizer/customizer-options.php:4211
+#: customizer/customizer-options.php:5013
+#: customizer/customizer-options.php:5272
+msgid "Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3887
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3894
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3901
+msgid "Navigation"
+msgstr ""
+
+#: customizer/customizer-options.php:3922
+msgid "Drop Down - Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3930
+msgid "Drop Down - Opacity"
+msgstr ""
+
+#: customizer/customizer-options.php:3943
+msgid "Drop Down - Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3950
+msgid "Selected / Highlight Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3957
+msgid "Selected / Highlight Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:3989
+msgid "Sticky Header - Opacity"
+msgstr ""
+
+#: customizer/customizer-options.php:4038
+msgid "Breadcrumbs Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4052
+msgid "Headings Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4066
+#: customizer/customizer-options.php:4101
+#: customizer/customizer-options.php:4183
+#: customizer/customizer-options.php:4218
+msgid "Link Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4073
+#: customizer/customizer-options.php:4108
+#: customizer/customizer-options.php:4190
+#: customizer/customizer-options.php:4225
+msgid "Link Hover Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4087
+msgid "Widget Title Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4122
+msgid "Pagination Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4129
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4162
+msgid "Widgets Title Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4176
+msgid "Social Icons Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4236
+msgid "Elation Social Links"
+msgstr ""
+
+#: customizer/customizer-options.php:4244
+msgid "Social Links Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:4252
+msgid "Add Side Aligned Social Icons"
+msgstr ""
+
+#: customizer/customizer-options.php:4255
+msgid ""
+"Add <a href=\"#elation-panel-social-section-links\" rel="
+"\"tc-section\">Social Links</a> for this to show"
+msgstr ""
+
+#: customizer/customizer-options.php:4260
+msgid "Switch the icons to the left"
+msgstr ""
+
+#: customizer/customizer-options.php:4267
+msgid "Scroll Icons with the Site"
+msgstr ""
+
+#: customizer/customizer-options.php:4274
+msgid "Position from Top"
+msgstr ""
+
+#: customizer/customizer-options.php:4289
+msgid "Side Social Links Design"
+msgstr ""
+
+#: customizer/customizer-options.php:4298
+msgid "Social Icon Size"
+msgstr ""
+
+#: customizer/customizer-options.php:4312
+msgid "Social Icon Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:4326
+msgid "Set Header Icons to Brand Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:4333
+msgid "Set Footer Icons to Brand Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:4340
+msgid "Set Side Aligned Icons to Brand Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:4354
+msgid "Social Links"
+msgstr ""
+
+#: customizer/customizer-options.php:4364
+msgid ""
+"Edit Elation <a href=\"#elation-panel-social-section-links-"
+"settings\" rel=\"tc-section\" class=\"el-interlink"
+"\">Social Links Settings</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:4368
+msgid "Email Address"
+msgstr ""
+
+#: customizer/customizer-options.php:4374
+msgid "Skype Name"
+msgstr ""
+
+#: customizer/customizer-options.php:4386
+msgid "WhatsApp"
+msgstr ""
+
+#: customizer/customizer-options.php:4389
+msgid "Enter your area code & WhatsApp number"
+msgstr ""
+
+#: customizer/customizer-options.php:4393
+msgid "Social Profiles"
+msgstr ""
+
+#: customizer/customizer-options.php:4399
+msgid "Facebook"
+msgstr ""
+
+#: customizer/customizer-options.php:4405
+msgid "Twitter"
+msgstr ""
+
+#: customizer/customizer-options.php:4411
+msgid "Google Plus"
+msgstr ""
+
+#: customizer/customizer-options.php:4417
+msgid "SnapChat"
+msgstr ""
+
+#: customizer/customizer-options.php:4423
+msgid "Amazon"
+msgstr ""
+
+#: customizer/customizer-options.php:4429
+msgid "Etsy"
+msgstr ""
+
+#: customizer/customizer-options.php:4435
+msgid "Yelp"
+msgstr ""
+
+#: customizer/customizer-options.php:4441
+msgid "YouTube"
+msgstr ""
+
+#: customizer/customizer-options.php:4447
+msgid "Vimeo"
+msgstr ""
+
+#: customizer/customizer-options.php:4453
+msgid "Instagram"
+msgstr ""
+
+#: customizer/customizer-options.php:4459
+msgid "Strava"
+msgstr ""
+
+#: customizer/customizer-options.php:4465
+msgid "Airbnb"
+msgstr ""
+
+#: customizer/customizer-options.php:4471
+msgid "Pinterest"
+msgstr ""
+
+#: customizer/customizer-options.php:4483
+msgid "Blogger"
+msgstr ""
+
+#: customizer/customizer-options.php:4489
+msgid "Behance"
+msgstr ""
+
+#: customizer/customizer-options.php:4495
+msgid "SoundCloud"
+msgstr ""
+
+#: customizer/customizer-options.php:4501
+msgid "Spotify"
+msgstr ""
+
+#: customizer/customizer-options.php:4507
+msgid "Product Hunt"
+msgstr ""
+
+#: customizer/customizer-options.php:4513
+msgid "Kickstarter"
+msgstr ""
+
+#: customizer/customizer-options.php:4519
+msgid "Slack"
+msgstr ""
+
+#: customizer/customizer-options.php:4525
+msgid "LinkedIn"
+msgstr ""
+
+#: customizer/customizer-options.php:4531
+msgid "Tumblr"
+msgstr ""
+
+#: customizer/customizer-options.php:4537
+msgid "Digg"
+msgstr ""
+
+#: customizer/customizer-options.php:4543
+msgid "Flickr"
+msgstr ""
+
+#: customizer/customizer-options.php:4549
+msgid "Houzz"
+msgstr ""
+
+#: customizer/customizer-options.php:4555
+msgid "Vine"
+msgstr ""
+
+#: customizer/customizer-options.php:4561
+msgid "VK"
+msgstr ""
+
+#: customizer/customizer-options.php:4567
+msgid "Xing"
+msgstr ""
+
+#: customizer/customizer-options.php:4573
+msgid "StumbleUpon"
+msgstr ""
+
+#: customizer/customizer-options.php:4579
+msgid "TripAdvisor"
+msgstr ""
+
+#: customizer/customizer-options.php:4585
+msgid "500px"
+msgstr ""
+
+#: customizer/customizer-options.php:4591
+msgid "Odnoklassniki"
+msgstr ""
+
+#: customizer/customizer-options.php:4597
+msgid "GitHub"
+msgstr ""
+
+#: customizer/customizer-options.php:4603
+msgid "Custom Brand Icons"
+msgstr ""
+
+#: customizer/customizer-options.php:4611
+msgid ""
+"Use any other brand icon by adding the corrent <a href="
+"\"https://fontawesome.com/icons?d=gallery&s=brands&m=free"
+"\" target=\"_blank\">Font Awesome</a> class name. Eg: \"fa-"
+"facebook\"<br /><br />This only uses brand icons."
+msgstr ""
+
+#: customizer/customizer-options.php:4615
+#: customizer/customizer-options.php:4651
+msgid "Add a Custom Social Link"
+msgstr ""
+
+#: customizer/customizer-options.php:4621
+#: customizer/customizer-options.php:4633
+#: customizer/customizer-options.php:4657
+msgid "Add the URL"
+msgstr ""
+
+#: customizer/customizer-options.php:4627
+msgid "Add another Custom Social Link"
+msgstr ""
+
+#: customizer/customizer-options.php:4639
+msgid "Custom NON Brand Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:4647
+msgid ""
+"Use any non-brand <a href=\"https://fontawesome.com/icons?"
+"d=gallery&c=buildings,business,chat,code,date-time,design,"
+"editors,maps,marketing,shapes,travel,writing&m=free\" "
+"target=\"_blank\">Font Awesome</a> icon.<br />Eg: \"fa-bed"
+"\"<br /><br />This will not take brand icons."
+msgstr ""
+
+#: customizer/customizer-options.php:4666
+msgid "Header Media"
+msgstr ""
+
+#: customizer/customizer-options.php:4668
+msgid ""
+"<a href=\"#elation-panel-settings-section-header-media\" "
+"rel=\"tc-section\">Select the Custom Header option here</"
+"a> to use this Header Media on your home page or all pages."
+msgstr ""
+
+#: customizer/customizer-options.php:4676 functions.php:697
+msgid "WooCommerce"
+msgstr ""
+
+#: customizer/customizer-options.php:4684
+msgid "Elation Catalogue Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:4693
+msgid "Basic / Default"
+msgstr ""
+
+#: customizer/customizer-options.php:4694
+msgid "Basic Left Aligned"
+msgstr ""
+
+#: customizer/customizer-options.php:4695
+msgid "Product Blocks"
+msgstr ""
+
+#: customizer/customizer-options.php:4696
+msgid "Block with Text Button"
+msgstr ""
+
+#: customizer/customizer-options.php:4697
+msgid "Simple with Hover Button"
+msgstr ""
+
+#: customizer/customizer-options.php:4698
+msgid "Product Blocks with Hover Button"
+msgstr ""
+
+#: customizer/customizer-options.php:4702
+msgid "Product Catalogue Design"
+msgstr ""
+
+#: customizer/customizer-options.php:4715
+msgid "Column Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:4729
+msgid "Products Bottom Spacing"
+msgstr ""
+
+#: customizer/customizer-options.php:4742
+msgid "Remove Breadcrumbs"
+msgstr ""
+
+#: customizer/customizer-options.php:4749
+msgid "Remove Default Shop Title"
+msgstr ""
+
+#: customizer/customizer-options.php:4756
+msgid "Remove Product Results & Sorting"
+msgstr ""
+
+#: customizer/customizer-options.php:4764
+msgid "Products Title Size"
+msgstr ""
+
+#: customizer/customizer-options.php:4777
+msgid "Products Title Height"
+msgstr ""
+
+#: customizer/customizer-options.php:4785
+msgid ""
+"This adjusts the product title height to align the items "
+"with short and long titles"
+msgstr ""
+
+#: customizer/customizer-options.php:4791
+msgid "Set Products to single column on Mobile"
+msgstr ""
+
+#: customizer/customizer-options.php:4800
+msgid "Elation Product Page Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:4809
+msgid "Default Left Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:4810
+msgid "Basic Right Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:4815
+msgid "Product Page Design"
+msgstr ""
+
+#: customizer/customizer-options.php:4822
+msgid "Horizontal Tabs"
+msgstr ""
+
+#: customizer/customizer-options.php:4823
+msgid "Vertical Tabs"
+msgstr ""
+
+#: customizer/customizer-options.php:4824
+msgid "Link Style Tabs"
+msgstr ""
+
+#: customizer/customizer-options.php:4828
+msgid "Product Tab Style"
+msgstr ""
+
+#: customizer/customizer-options.php:4841
+msgid "Product Details Column Sizing"
+msgstr ""
+
+#: customizer/customizer-options.php:4856
+msgid "Elation My Account Page Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:4862
+#: customizer/customizer-options.php:4931
+msgid "Default Design"
+msgstr ""
+
+#: customizer/customizer-options.php:4863
+msgid "Top Tabs Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:4867
+msgid "My Account Page Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:4878
+msgid "Remove Dashoard Tab"
+msgstr ""
+
+#: customizer/customizer-options.php:4885
+msgid "Remove Orders Tab"
+msgstr ""
+
+#: customizer/customizer-options.php:4892
+msgid "Remove Downloads Tab"
+msgstr ""
+
+#: customizer/customizer-options.php:4899
+msgid "Remove Addresses Tab"
+msgstr ""
+
+#: customizer/customizer-options.php:4906
+msgid "Remove Account Details Tab"
+msgstr ""
+
+#: customizer/customizer-options.php:4913
+msgid "Remove Logout Tab"
+msgstr ""
+
+#: customizer/customizer-options.php:4925
+msgid "Elation Cart Page Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:4932
+msgid "Design Two"
+msgstr ""
+
+#: customizer/customizer-options.php:4936
+msgid "Cart Page Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:4944
+msgid "Center Cart Totals"
+msgstr ""
+
+#: customizer/customizer-options.php:4952
+msgid "Elation Checkout Page Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:4958
+msgid "Default 2 Column Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:4963
+msgid "Checkout Page Design"
+msgstr ""
+
+#: customizer/customizer-options.php:4971
+msgid "Make Labels Uppercase"
+msgstr ""
+
+#: customizer/customizer-options.php:4980
+msgid "Elation WC Color Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:4988
+msgid "Buttons Take On Primary Color"
+msgstr ""
+
+#: customizer/customizer-options.php:4998
+msgid "Store Notice"
+msgstr ""
+
+#: customizer/customizer-options.php:5028
+msgid "Elation Mobile Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:5051
+msgid "Remove Site Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:5065
+msgid "Remove Header Background Image"
+msgstr ""
+
+#: customizer/customizer-options.php:5072
+msgid "Remove Site Logo"
+msgstr ""
+
+#: customizer/customizer-options.php:5080
+msgid "Site Title Mobile Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:5094
+msgid "Site Tagline Mobile Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:5110
+msgid "Remove Sticky Header on Mobile"
+msgstr ""
+
+#: customizer/customizer-options.php:5131
+msgid "Remove Footer Background Image"
+msgstr ""
+
+#: customizer/customizer-options.php:5138
+msgid "Remove Side Aligned Social Icons"
+msgstr ""
+
+#: customizer/customizer-options.php:5145
+msgid "Remove Footer Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:5155
+msgid "Mobile Menu Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:5161
+msgid "Slide from Right"
+msgstr ""
+
+#: customizer/customizer-options.php:5162
+msgid "Slide from Left"
+msgstr ""
+
+#: customizer/customizer-options.php:5163
+msgid "Drop Down"
+msgstr ""
+
+#: customizer/customizer-options.php:5167
+msgid "Mobile Menu Display"
+msgstr ""
+
+#: customizer/customizer-options.php:5175
+msgid "Navigation / Button"
+msgstr ""
+
+#: customizer/customizer-options.php:5182
+msgid "Remove Mobile Menu Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:5189
+msgid "Mobile Navigation - Menu Button Text"
+msgstr ""
+
+#: customizer/customizer-options.php:5192
+msgid "Menu"
+msgstr ""
+
+#: customizer/customizer-options.php:5210
+msgid "Mobile Menu Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:5213
+msgid "fa-bars"
+msgstr ""
+
+#: customizer/customizer-options.php:5214
+msgid ""
+"Use any of the <a href=\"https://fontawesome.com/icons?"
+"d=gallery&s=solid&m=free\" target=\"_blank\">Free, Solid "
+"Icons</a> here"
+msgstr ""
+
+#: customizer/customizer-options.php:5219
+msgid "Icon Size"
+msgstr ""
+
+#: customizer/customizer-options.php:5233
+msgid "Navigation Menu"
+msgstr ""
+
+#: customizer/customizer-options.php:5238
+msgid "Button"
+msgstr ""
+
+#: customizer/customizer-options.php:5239
+msgid "Plain Arrow"
+msgstr ""
+
+#: customizer/customizer-options.php:5243
+msgid "Drop Down Toggle Style"
+msgstr ""
+
+#: customizer/customizer-options.php:5259
+msgid "Items Font Size"
+msgstr ""
+
+#: customizer/customizer-options.php:5279
+msgid "Font Hover / Page Selected Color"
+msgstr ""
+
+#: customizer/customizer-options.php:5286
+msgid "Sub Menu Arrow Color"
+msgstr ""
+
+#: customizer/customizer-options.php:5293
+msgid "Sub Menu Shade Darker"
+msgstr ""
+
+#: customizer/customizer-options.php:5300
+msgid "Close X Color"
+msgstr ""
+
+#: customizer/customizer-options.php:5311
+msgid "Background Image"
+msgstr ""
+
+#: customizer/customizer-options.php:5316
+msgid "Make Header Transparent"
+msgstr ""
+
+#: customizer/customizer-options.php:5323
+msgid "Make Footer Transparent"
+msgstr ""
+
+#: customizer/customizer-options.php:5334
+msgid "Plugin Support"
+msgstr ""
+
+#: customizer/customizer-options.php:5336
+msgid ""
+"Elation adds/removes custom styling to be more compatible "
+"with external plugins"
+msgstr ""
+
+#: customizer/customizer-options.php:5340
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: customizer/customizer-options.php:5347
+msgid "Mega Menu"
+msgstr ""
+
+#: functions.php:107
+msgid "Header Main Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Header Secondary Menu"
+msgstr ""
+
+#: functions.php:109
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:189
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:191
+msgid "Add widgets to the Sidebar here."
+msgstr ""
+
+#: functions.php:200
+msgid "Elation Custom Footer 1"
+msgstr ""
+
+#: functions.php:206
+msgid "Elation Custom Footer 2"
+msgstr ""
+
+#: functions.php:212
+msgid "Elation Custom Footer 3"
+msgstr ""
+
+#: functions.php:218
+msgid "Elation Custom Footer 4"
+msgstr ""
+
+#: functions.php:224
+msgid "Elation Custom Footer 5"
+msgstr ""
+
+#: functions.php:232
+msgid "Elation Footer - Split Widgets Layout"
+msgstr ""
+
+#: functions.php:234
+msgid ""
+"The footer will be split by the amount of widgets added"
+msgstr ""
+
+#: functions.php:687
+msgid "Contact Form by WPForms"
+msgstr ""
+
+#: functions.php:692
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: functions.php:702
+msgid "WooCustomizer"
+msgstr ""
+
+#: functions.php:707
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: functions.php:732
+msgid "Thank you for trying out Elation!"
+msgstr ""
+
+#: functions.php:736
+#, php-format
+msgid "We've got some %1$s with the Elation theme."
+msgstr ""
+
+#: functions.php:736
+msgid "useful links to help you get started"
+msgstr ""
+
+#: functions.php:742
+msgid "Let's get started !"
+msgstr ""
+
+#: functions.php:744
+msgid ""
+"Elation is very easy to set up and start building with."
+msgstr ""
+
+#: functions.php:747
+msgid ""
+"All the Elation theme settings are built into the "
+"WordPress Customizer so you can easily and quickly build a "
+"great, professional looking website."
+msgstr ""
+
+#: functions.php:749 inc/admin/tpl/admin-page.php:96
+msgid "Start Customizing Elation"
+msgstr ""
+
+#: functions.php:752
+msgid "Unsure of anything? Or found a bug?"
+msgstr ""
+
+#: functions.php:754
+msgid "Please go easy on us if something is not working :)"
+msgstr ""
+
+#: functions.php:757
+msgid ""
+"If you've found a bug or something in the theme that is "
+"not working as you expect, then please contact us sso we "
+"can help you sort it out."
+msgstr ""
+
+#: functions.php:759 inc/admin/tpl/admin-page.php:115
+msgid "Contact Us"
+msgstr ""
+
+#: functions.php:762
+msgid "Top help links for getting started:"
+msgstr ""
+
+#: functions.php:765
+msgid "File exceeds maximum upload size"
+msgstr ""
+
+#: functions.php:768
+msgid "Adding custom CSS to WordPress"
+msgstr ""
+
+#: functions.php:771
+msgid "Mobile menu not working"
+msgstr ""
+
+#: functions.php:774
+msgid "Setting up your WordPress Dashboard"
+msgstr ""
+
+#: functions.php:777 inc/admin/tpl/admin-page.php:294
+msgid "Kaira Documentation"
+msgstr ""
+
+#: functions.php:782
+msgid "Dismiss Notice"
+msgstr ""
+
+#: header.php:49
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/admin.php:13
+msgid "About Elation"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:14
+msgid "Thank you for upgrading to Elation Pro !"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:24
+msgid ""
+"Let us help you migrate your settings across from Elation "
+"FREE version to Elation Pro"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:27
+msgid "Lets copy the settings from:"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:36
+msgid "Copy Settings"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:37
+#: inc/admin/tpl/admin-page.php:47
+msgid "Dismiss Settings"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:43
+msgid ""
+"You do not seem to have the FREE and Premium verisons of "
+"the Elation theme installed, they both need to be "
+"installed to migrate your settings across."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:45
+msgid "Re-Install Elation FREE"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:46
+msgid "Download and Install Elation Pro"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:49
+msgid ""
+"For Site Health reasons, it's good to keep the free "
+"version installed as a backup."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:56
+#, php-format
+msgid "Your settings were successfully copied to %1$s."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:68
+msgid "Getting Started with Elation"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:74
+msgid "Welcome to Elation"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:76
+msgid ""
+"[ ih-ley-shuhn ] - \"great happiness and exhilaration.\""
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:79
+msgid ""
+"Get introduced to the Elation WordPress theme by watching "
+"our \"Getting Started\" video. This video will give you a "
+"quick and easy understanding of how the Elation theme "
+"works. Happy building :)"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:87
+msgid "Watch our video on using Elation"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:93
+msgid ""
+"Now that you know where the settings are and how to use "
+"them, you can start building your website... Or click "
+"through to view more Kaira documentation."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:97
+msgid "See Kaira Documentation"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:107
+#: inc/admin/tpl/admin-page.php:123
+msgid "Elation Pro"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:110
+#: inc/admin/tpl/admin-page.php:127
+msgid "Purchase Elation Pro right here in the Dashboard!"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:113
+#: inc/admin/tpl/admin-page.php:306
+msgid "Account"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:114
+msgid "Become an Affiliate"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:116
+#: inc/admin/tpl/admin-page.php:311
+msgid "Kaira Blog"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:131
+msgid ""
+"Elation Pro offers a lot more extra, useful features for "
+"building your website. See some of the Premium features "
+"below and purchase Elation Pro to get started."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:135
+msgid "Purchase Elation Pro"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:143
+msgid ""
+"Add a website loader to display while your website loads, "
+"and further customize the loader to suit your site."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:147
+#: inc/admin/tpl/admin-page.php:148
+msgid "Advanced WooCommerce Settings"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:150
+msgid ""
+"Elation Pro offers extrs integrated WooCommerce settings "
+"to enhance your WooCommerce store even more."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:154
+msgid "Blog Pagination / Ajax Load new posts"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:155
+msgid "Blog Ajax Load new posts"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:157
+msgid ""
+"Add Numeric Pagination or AJAX button or infinite Scroll "
+"to load more blog posts much quicker and easier for your "
+"users."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:161
+#: inc/admin/tpl/admin-page.php:162
+msgid "FREE Shortcode slider"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:164
+msgid ""
+"Elation Pro includes a better shortcode slider to created "
+"sliders for all/any pages on your site."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:168
+msgid "Side Aligned Social Icons"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:169
+msgid "Customize Side Aligned Social Icons"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:171
+msgid ""
+"Add neat Social Icons to the side of the website that can "
+"scroll with the users on your site."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:175
+#: inc/admin/tpl/admin-page.php:176
+msgid "Brand Colored Social Icons"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:178
+msgid ""
+"Change each Social link icon to their original brand color "
+"so they stand out beautifully."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:185
+msgid ""
+"Add a Sticky Header to your site so users can easily "
+"navigate around no matter how far they've scrolled down."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:189
+#: inc/admin/tpl/admin-page.php:190
+msgid "Sticky Widget Area / Sidebar"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:192
+msgid ""
+"Set the Widget area / Sidebar to sticky, making it always "
+"visible and clickable for users as the scroll."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:196
+msgid "WooCommerce Menu Cart"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:197
+msgid "Menu Cart Drop Down basket"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:199
+msgid ""
+"Add and customize a menu cart to your site navigation and "
+"display a full dropdown cart with products."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:203
+#: inc/admin/tpl/admin-page.php:204
+msgid "Import Page Layouts"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:206
+msgid ""
+"Elation Pro offers a bunch of Elementor Page layouts to "
+"easily import and use as a start for each page."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:210
+#: inc/admin/tpl/admin-page.php:211
+msgid "Advanced Blog Excerpts"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:213
+msgid ""
+"Customize your blog list page with custom Excerpts to make "
+"them all display neatly and as you want."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:217
+#: inc/admin/tpl/admin-page.php:218
+msgid "Blog Posts Author Block"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:220
+msgid ""
+"Add a post author block to each blog post displaying "
+"information about the author."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:224
+#: inc/admin/tpl/admin-page.php:225
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:227
+msgid ""
+"Add and customize a neat Back To Top button so your users "
+"can easily scroll up with a simple click."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:231
+#: inc/admin/tpl/admin-page.php:232
+msgid "Footer Siteby Link"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:234
+msgid ""
+"Building websites for clients? Add your own SiteBy link to "
+"the site to backlink to your business site."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:238
+#: inc/admin/tpl/admin-page.php:239
+msgid "Site Attribution"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:241
+msgid ""
+"Edit the Kaira attribution text in the footer to have your "
+"own &copy; copyright information."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:246
+msgid "Extra features also included with Elation Pro"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:248
+msgid ""
+"Select from different WooCommerce Product List Styling"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:249
+msgid "Edit WooCommerce Product Page Design / Layout"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:250
+msgid "Edit WooCommerce Product Page Tab Styling"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:251
+msgid "Remove selected User Account Tabs"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:252
+msgid "Add breadcrumbs anywhere using a shortcode"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:253
+msgid "Remove Pages from Blog Search Results"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:254
+msgid "Add extra icon & text to site footer"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:258
+msgid ""
+"With Elation Pro, we offer dedicated and prioritized "
+"premium support, and we will go out of our way to help you "
+"as best as we can with anything you may need help with."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:265
+msgid "Help with Elation"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:268
+msgid ""
+"For extra help on using Elation, read through the links "
+"below, or get in contact if you simply need advice or help "
+"when building your website."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:275
+msgid "Elation Pro Child Theme"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:276
+msgid ""
+"Download a working child theme for your Elation Pro theme "
+"and start customizing the theme with your own code."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:277
+#: inc/admin/tpl/admin-page.php:284
+msgid "Click to Download"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:282
+msgid "Elation Child Theme"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:283
+msgid ""
+"Download a working child theme for Elation and start "
+"customizing the theme with your own code."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:289
+msgid "Theme Support"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:290
+msgid ""
+"Get theme Support / Advice for the Elation theme (Pro "
+"users get prioritized support)."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:291
+msgid "Click to get in contact"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:295
+msgid ""
+"Get more help on WordPress and using WordPress themes by "
+"reading through our Kaira documentation."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:296
+#: inc/admin/tpl/admin-page.php:313
+msgid "Click to Read More"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:301
+msgid "FixRunner: 15% Discount"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:302
+#, php-format
+msgid ""
+"Need custom work done on your website. Contact Fixrunner "
+"using our partner code to get 15% off."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:303
+msgid "Click for Custom Work"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:307
+msgid ""
+"Manage your account, trial or license for Elation Pro and "
+"more from the account page."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:308
+msgid "Go to Account Page"
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:312
+msgid ""
+"Read our Kaira Blog for more useful and educational info "
+"on WordPress and related topics."
+msgstr ""
+
+#: inc/admin/tpl/admin-page.php:320
+msgid "View More on Elation"
+msgstr ""
+
+#: inc/basic-slider/slider-shortcode.php:98
+msgid "Elation Slider"
+msgstr ""
+
+#: inc/basic-slider/slider-shortcode.php:99
+msgid "Please view the page to see the slider working"
+msgstr ""
+
+#: inc/basic-slider/slider-shortcode.php:136
+msgid "Invalid Shortcode ID,"
+msgstr ""
+
+#: inc/basic-slider/slider-shortcode.php:136
+msgid "create a new Elation Slider"
+msgstr ""
+
+#: inc/basic-slider/slider.php:7
+msgctxt "Elation Sliders"
+msgid "Elation Sliders"
+msgstr ""
+
+#: inc/basic-slider/slider.php:8
+msgctxt "Elation Slider"
+msgid "Elation Slider"
+msgstr ""
+
+#: inc/basic-slider/slider.php:9
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: inc/basic-slider/slider.php:10
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/basic-slider/slider.php:11
+msgid "New Slider"
+msgstr ""
+
+#: inc/basic-slider/slider.php:12
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/basic-slider/slider.php:13
+msgid "View Slider"
+msgstr ""
+
+#: inc/basic-slider/slider.php:14
+msgid "All Sliders"
+msgstr ""
+
+#: inc/basic-slider/slider.php:15
+msgid "Search Sliders"
+msgstr ""
+
+#: inc/basic-slider/slider.php:16
+msgid "Parent Sliders:"
+msgstr ""
+
+#: inc/basic-slider/slider.php:17
+msgid "No Sliders found."
+msgstr ""
+
+#: inc/basic-slider/slider.php:18
+msgid "No Sliders found in Trash."
+msgstr ""
+
+#: inc/basic-slider/slider.php:23
+msgid "Description."
+msgstr ""
+
+#: inc/basic-slider/slider.php:43
+msgid "Slides"
+msgstr ""
+
+#: inc/basic-slider/slider.php:45
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/basic-slider/slider.php:103
+#: inc/basic-slider/slider.php:177
+#: inc/basic-slider/slider.php:248
+msgid "Upload Image"
+msgstr ""
+
+#: inc/basic-slider/slider.php:114
+#: inc/basic-slider/slider.php:188
+#: inc/basic-slider/slider.php:259
+msgid "General"
+msgstr ""
+
+#: inc/basic-slider/slider.php:115
+#: inc/basic-slider/slider.php:189
+#: inc/basic-slider/slider.php:260
+msgid "SEO"
+msgstr ""
+
+#: inc/basic-slider/slider.php:116
+#: inc/basic-slider/slider.php:190
+#: inc/basic-slider/slider.php:261
+msgid "Styling"
+msgstr ""
+
+#: inc/basic-slider/slider.php:124
+#: inc/basic-slider/slider.php:198
+#: inc/basic-slider/slider.php:269
+msgid "No Link"
+msgstr ""
+
+#: inc/basic-slider/slider.php:125
+#: inc/basic-slider/slider.php:199
+#: inc/basic-slider/slider.php:270
+msgid "Slide Link"
+msgstr ""
+
+#: inc/basic-slider/slider.php:126
+#: inc/basic-slider/slider.php:200
+#: inc/basic-slider/slider.php:271
+msgid "Button Link"
+msgstr ""
+
+#: inc/basic-slider/slider.php:143
+#: inc/basic-slider/slider.php:215
+#: inc/basic-slider/slider.php:286
+msgid "Slide Text Box Position"
+msgstr ""
+
+#: inc/basic-slider/slider.php:145
+#: inc/basic-slider/slider.php:217
+#: inc/basic-slider/slider.php:288
+msgid "Default Position"
+msgstr ""
+
+#: inc/basic-slider/slider.php:149
+#: inc/basic-slider/slider.php:221
+#: inc/basic-slider/slider.php:292
+msgid "Middle Left"
+msgstr ""
+
+#: inc/basic-slider/slider.php:150
+#: inc/basic-slider/slider.php:222
+#: inc/basic-slider/slider.php:293
+msgid "Middle Center"
+msgstr ""
+
+#: inc/basic-slider/slider.php:151
+#: inc/basic-slider/slider.php:223
+#: inc/basic-slider/slider.php:294
+msgid "Middle Right"
+msgstr ""
+
+#: inc/basic-slider/slider.php:155
+#: inc/basic-slider/slider.php:227
+#: inc/basic-slider/slider.php:298
+msgid "Remove Text Box from this Slide"
+msgstr ""
+
+#: inc/basic-slider/slider.php:157
+#: inc/basic-slider/slider.php:229
+#: inc/basic-slider/slider.php:300
+msgid "Slide Text Box Width"
+msgstr ""
+
+#: inc/basic-slider/slider.php:318
+msgid "Add Another Slide"
+msgstr ""
+
+#: inc/basic-slider/slider.php:341
+msgid "Slider Design"
+msgstr ""
+
+#: inc/basic-slider/slider.php:343
+msgid "Default"
+msgstr ""
+
+#: inc/basic-slider/slider.php:348
+msgid "Slider Color Scheme"
+msgstr ""
+
+#: inc/basic-slider/slider.php:350
+msgid "Dark"
+msgstr ""
+
+#: inc/basic-slider/slider.php:351
+msgid "Light"
+msgstr ""
+
+#: inc/basic-slider/slider.php:356
+msgid "Slider Size"
+msgstr ""
+
+#: inc/basic-slider/slider.php:366
+msgid "Slider Scroll Effect"
+msgstr ""
+
+#: inc/basic-slider/slider.php:368
+msgid "Cross Fade"
+msgstr ""
+
+#: inc/basic-slider/slider.php:369
+msgid "Cover Fade"
+msgstr ""
+
+#: inc/basic-slider/slider.php:370
+msgid "Uncover Fade"
+msgstr ""
+
+#: inc/basic-slider/slider.php:371
+msgid "Cover"
+msgstr ""
+
+#: inc/basic-slider/slider.php:372
+msgid "Scroll"
+msgstr ""
+
+#: inc/basic-slider/slider.php:377
+msgid "Remove Pagination Dots"
+msgstr ""
+
+#: inc/basic-slider/slider.php:386
+msgid "Remove the clickable Pagination"
+msgstr ""
+
+#: inc/basic-slider/slider.php:390
+msgid "Stop Auto Scroll"
+msgstr ""
+
+#: inc/basic-slider/slider.php:399
+msgid "Stop the slider auto scrolling"
+msgstr ""
+
+#: inc/basic-slider/slider.php:403
+msgid "Pause On Hover"
+msgstr ""
+
+#: inc/basic-slider/slider.php:412
+msgid "Pause when mouse is on the slider"
+msgstr ""
+
+#: inc/basic-slider/slider.php:416
+msgid "Transition Speed"
+msgstr ""
+
+#: inc/basic-slider/slider.php:418
+msgid "Edit the Speed from one slide to the next"
+msgstr ""
+
+#: inc/basic-slider/slider.php:422
+msgid "Duration of Slides"
+msgstr ""
+
+#: inc/basic-slider/slider.php:424
+msgid "Edit the time spent on each slide"
+msgstr ""
+
+#: inc/basic-slider/slider.php:530
+msgid "Copied to Clipboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for "
+"this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid ""
+"All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to "
+"install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid ""
+"Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid ""
+"This plugin needs to be updated to be compatible with your "
+"theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with "
+"the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package "
+"their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, "
+"but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural ""
+"Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid ""
+"No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid ""
+"No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid ""
+"No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid ""
+"No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid ""
+"No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugins were activated successfully:"
+msgid_plural ""
+"The following plugin was activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid ""
+"An error occurred while installing %1$s: <strong>%2$s</"
+"strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This "
+"process may take a while on some hosts, so please be "
+"patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid ""
+"All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may "
+"take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/page-settings-metabox.php:6
+msgid "Elation Page Settings"
+msgstr ""
+
+#: inc/page-settings-metabox.php:27
+msgid "Remove Page Title"
+msgstr ""
+
+#: inc/page-settings-metabox.php:42
+msgid "Page Slider Shortcode"
+msgstr ""
+
+#: inc/page-settings-metabox.php:45
+msgid "Enter a slider shortcode into the input provided."
+msgstr ""
+
+#: inc/template-tags.php:26
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:53
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:95
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:105
+#, php-format
+msgid ""
+"Leave a Comment<span class=\"screen-reader-text\"> on %s</"
+"span>"
+msgstr ""
+
+#: inc/template-tags.php:122
+#: templates/content/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/woocommerce.php:212
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce.php:219
+#, php-format
+msgid "%d items"
+msgid_plural "%d item"
+msgstr[0] ""
+msgstr[1] ""
+
+#: page-layouts/library/template-parts/content-page-layouts.php:62
+msgid "Page Layouts"
+msgstr ""
+
+#: page-layouts/library/template-parts/content-page-layouts.php:118
+msgid "There are no page layouts that match your keywords."
+msgstr ""
+
+#: page-layouts/library/template-parts/content-page-layouts.php:127
+#, php-format
+msgid ""
+"Please install the <a href=\"%s\" target=\"_blank"
+"\">Elementor Page Builder</a> to start importing and using "
+"the page layouts."
+msgstr ""
+
+#: page-layouts/library/template-parts/content-page-layouts.php:134
+#, php-format
+msgid ""
+"Upgrade to <a href=\"%s\" target=\"_blank\">Elementor Page "
+"Builder PRO</a>."
+msgstr ""
+
+#: page-layouts/library/template-parts/content-page-layouts.php:165
+msgid "Import Layouts"
+msgstr ""
+
+#: page-layouts/library/template-parts/content-page-layouts.php:169
+msgid "Import Layout"
+msgstr ""
+
+#: page-layouts/library/template-parts/content-page-layouts.php:174
+msgid "Get Elementor"
+msgstr ""
+
+#: page-layouts/page-layouts.php:171
+#: page-layouts/page-layouts.php:172
+msgid "Elation Page Layouts"
+msgstr ""
+
+#: templates/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/content/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get "
+"started here</a>."
+msgstr ""
+
+#: templates/content/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try "
+"again with some different keywords."
+msgstr ""
+
+#: templates/content/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking "
+"for. Perhaps searching can help."
+msgstr ""
+
+#: templates/content/content-page.php:24
+#: templates/content/content-search.php:121
+#: templates/content/content-single.php:68
+#: templates/content/content.php:148
+msgid "Pages:"
+msgstr ""
+
+#: templates/content/content-search.php:85
+#: templates/content/content-search.php:107
+#: templates/content/content.php:112
+#: templates/content/content.php:134
+#, php-format
+msgid ""
+"Continue reading<span class=\"screen-reader-text\"> \"%s"
+"\"</span>"
+msgstr ""
+
+#: templates/footer/bottombar/bottombar-default.php:17
+#: templates/footer/bottombar/bottombar-one.php:16
+#: templates/footer/bottombar/bottombar-two.php:16
+#: templates/footer/footer-basic.php:61
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: templates/footer/bottombar/bottombar-default.php:17
+#: templates/footer/bottombar/bottombar-one.php:16
+#: templates/footer/bottombar/bottombar-two.php:16
+#: templates/footer/footer-basic.php:61
+msgid "Elation"
+msgstr ""
+
+#: templates/footer/bottombar/bottombar-default.php:17
+#: templates/footer/bottombar/bottombar-one.php:16
+#: templates/footer/bottombar/bottombar-two.php:16
+#: templates/footer/footer-basic.php:61
+msgid "<a href=\"https://kairaweb.com/\">Kaira</a>"
+msgstr ""
+
+#: templates/header/header.php:94
+#: templates/header/topbar/topbar.php:42
+msgid "[ Enter a Shortcode ]"
+msgstr ""
+
+#: templates/social-links.php:3
+msgid "Send Us an Email"
+msgstr ""
+
+#: templates/social-links.php:7
+msgid "Contact Us on Skype"
+msgstr ""
+
+#: templates/social-links.php:11
+msgid "Call Us"
+msgstr ""
+
+#: templates/social-links.php:15
+msgid "Contact Us on Whatsapp"
+msgstr ""
+
+#: templates/social-links.php:19
+msgid "Find Us on Facebook"
+msgstr ""
+
+#: templates/social-links.php:23
+msgid "Follow Us on Twitter"
+msgstr ""
+
+#: templates/social-links.php:27
+msgid "Find Us on Google Plus"
+msgstr ""
+
+#: templates/social-links.php:31
+msgid "Follow Us on SnapChat"
+msgstr ""
+
+#: templates/social-links.php:35
+msgid "Find Us on Amazon"
+msgstr ""
+
+#: templates/social-links.php:39
+msgid "Find Us on Etsy"
+msgstr ""
+
+#: templates/social-links.php:43
+msgid "Find Us on Yelp"
+msgstr ""
+
+#: templates/social-links.php:47
+msgid "View our YouTube Channel"
+msgstr ""
+
+#: templates/social-links.php:51
+msgid "View our Vimeo Channel"
+msgstr ""
+
+#: templates/social-links.php:55
+msgid "Follow Us on Instagram"
+msgstr ""
+
+#: templates/social-links.php:59
+msgid "Follow Us on Strava"
+msgstr ""
+
+#: templates/social-links.php:63
+msgid "Find Us on Airbnb"
+msgstr ""
+
+#: templates/social-links.php:67
+msgid "Pin Us on Pinterest"
+msgstr ""
+
+#: templates/social-links.php:71
+msgid "Find us on Medium"
+msgstr ""
+
+#: templates/social-links.php:75
+msgid "Find us on Blogger"
+msgstr ""
+
+#: templates/social-links.php:79
+msgid "Find us on Behance"
+msgstr ""
+
+#: templates/social-links.php:83
+msgid "Find us on SoundCloud"
+msgstr ""
+
+#: templates/social-links.php:87
+msgid "Find us on Spotify"
+msgstr ""
+
+#: templates/social-links.php:91
+msgid "Find us on Product Hunt"
+msgstr ""
+
+#: templates/social-links.php:95
+msgid "Find us on Kickstarter"
+msgstr ""
+
+#: templates/social-links.php:99
+msgid "Find us on Slack"
+msgstr ""
+
+#: templates/social-links.php:103
+msgid "Find Us on LinkedIn"
+msgstr ""
+
+#: templates/social-links.php:107
+msgid "Find Us on Tumblr"
+msgstr ""
+
+#: templates/social-links.php:111
+msgid "Find Us on Digg"
+msgstr ""
+
+#: templates/social-links.php:115
+msgid "Find Us on Flickr"
+msgstr ""
+
+#: templates/social-links.php:119
+msgid "Find our profile on Houzz"
+msgstr ""
+
+#: templates/social-links.php:123
+msgid "Find Us on Vine"
+msgstr ""
+
+#: templates/social-links.php:127
+msgid "Find Us on VK"
+msgstr ""
+
+#: templates/social-links.php:131
+msgid "Find Us on Xing"
+msgstr ""
+
+#: templates/social-links.php:135
+msgid "Find Us on StumbleUpon"
+msgstr ""
+
+#: templates/social-links.php:139
+msgid "Find Us on TripAdvisor"
+msgstr ""
+
+#: templates/social-links.php:143
+msgid "Find Us on GitHub"
+msgstr ""
+
+#: templates/social-links.php:147
+msgid "Find Us on 500px"
+msgstr ""
+
+#: templates/social-links.php:151
+msgid "Find Us on Odnoklassniki"
+msgstr ""
+
+#: templates/title-bar.php:31
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

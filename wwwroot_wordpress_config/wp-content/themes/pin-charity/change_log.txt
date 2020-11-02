@@ -1,0 +1,19 @@
+Version 1.5
+i)   Resolved Customizer Upgrade Button Issue.
+i)   Resolved Footer Copyright Text Spacing Issue.
+
+Version 1.4
+i)   Resolved functions.php:L255 esc_html_e is an echoing function, you can't use echo on it.
+ii)  Resolved image.php:L20 esc_attr__ will escape the span & a from that translation, use __().
+
+Version 1.3
+i)   Resolved All Issues Given By Reviewer
+
+Version 1.2
+i)   theme sniffer and theme check updated version issues resolved
+
+Version 1.1
+i)   Changed children face image as suggested by reviewer
+
+Version 1.0
+i)   Initial version Release
