@@ -1,0 +1,63 @@
+/*--------------------------------------------------------------
+# Elation - Admin CSS
+--------------------------------------------------------------*/
+
+/* Premium Code Stripped by Freemius */
+
+
+/* ---- Show / Hide Widget areas depending on selected footer ---- */
+body.elation-footer-split.widgets-php #elation-site-footer-custom-1.widgets-sortables,
+body.elation-footer-split.widgets-php #elation-site-footer-custom-2.widgets-sortables,
+body.elation-footer-split.widgets-php #elation-site-footer-custom-3.widgets-sortables,
+body.elation-footer-split.widgets-php #elation-site-footer-custom-4.widgets-sortables,
+body.elation-footer-split.widgets-php #elation-site-footer-custom-5.widgets-sortables,
+body.elation-footer-split.widgets-php #elation-site-footer-social,
+
+body.elation-footer-social.widgets-php #elation-site-footer-custom-1.widgets-sortables,
+body.elation-footer-social.widgets-php #elation-site-footer-custom-2.widgets-sortables,
+body.elation-footer-social.widgets-php #elation-site-footer-custom-3.widgets-sortables,
+body.elation-footer-social.widgets-php #elation-site-footer-custom-4.widgets-sortables,
+body.elation-footer-social.widgets-php #elation-site-footer-custom-5.widgets-sortables,
+body.elation-footer-social.widgets-php #elation-site-footer-split,
+
+body.elation-footer-default.elation-footer-custom-cols-1.widgets-php #elation-site-footer-custom-2.widgets-sortables,
+body.elation-footer-default.elation-footer-custom-cols-1.widgets-php #elation-site-footer-custom-3.widgets-sortables,
+body.elation-footer-default.elation-footer-custom-cols-1.widgets-php #elation-site-footer-custom-4.widgets-sortables,
+body.elation-footer-default.elation-footer-custom-cols-1.widgets-php #elation-site-footer-custom-5.widgets-sortables,
+
+body.elation-footer-default.elation-footer-custom-cols-2.widgets-php #elation-site-footer-custom-3.widgets-sortables,
+body.elation-footer-default.elation-footer-custom-cols-2.widgets-php #elation-site-footer-custom-4.widgets-sortables,
+body.elation-footer-default.elation-footer-custom-cols-2.widgets-php #elation-site-footer-custom-5.widgets-sortables,
+
+body.elation-footer-default.elation-footer-custom-cols-3.widgets-php #elation-site-footer-custom-4.widgets-sortables,
+body.elation-footer-default.elation-footer-custom-cols-3.widgets-php #elation-site-footer-custom-5.widgets-sortables,
+
+body.elation-footer-default.elation-footer-custom-cols-4.widgets-php #elation-site-footer-custom-5.widgets-sortables,
+body.elation-footer-default.widgets-php #elation-site-footer-split,
+
+body.elation-footer-none.widgets-php #elation-site-footer-custom-1.widgets-sortables,
+body.elation-footer-none.widgets-php #elation-site-footer-custom-2.widgets-sortables,
+body.elation-footer-none.widgets-php #elation-site-footer-custom-3.widgets-sortables,
+body.elation-footer-none.widgets-php #elation-site-footer-custom-4.widgets-sortables,
+body.elation-footer-none.widgets-php #elation-site-footer-custom-5.widgets-sortables,
+body.elation-footer-none.widgets-php #elation-site-footer-split,
+body.elation-footer-none.widgets-php #elation-site-footer-social {
+    display: none !important;
+}
+
+body.widgets-php .widgets-holder-wrap {
+    box-shadow: none;
+    border: 0;
+}
+
+body.widgets-php #sidebar-1,
+body.elation-footer-split.widgets-php #elation-site-footer-split,
+body.elation-footer-social.widgets-php #elation-site-footer-social,
+body.elation-footer-default.widgets-php #elation-site-footer-custom-1,
+body.elation-footer-default.widgets-php #elation-site-footer-custom-2,
+body.elation-footer-default.widgets-php #elation-site-footer-custom-3,
+body.elation-footer-default.widgets-php #elation-site-footer-custom-4,
+body.elation-footer-default.widgets-php #elation-site-footer-custom-5 {
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+}

@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#busyness-ui-tabs").tabs()});

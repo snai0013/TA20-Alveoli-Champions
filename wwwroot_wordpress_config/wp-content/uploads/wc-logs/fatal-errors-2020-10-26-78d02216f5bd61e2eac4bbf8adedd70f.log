@@ -1,0 +1,10 @@
+2020-10-26T04:43:43+00:00 CRITICAL Cannot declare class HFE\WidgetsManager\Widgets\Cart, because the name is already in use in D:\home\site\wwwroot\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 0
+
+2020-10-26T04:45:28+00:00 CRITICAL Cannot declare class HFE\WidgetsManager\Widgets\Cart, because the name is already in use in D:\home\site\wwwroot\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 0
+
+2020-10-26T04:46:08+00:00 CRITICAL Cannot declare class HFE\WidgetsManager\Widgets\Cart, because the name is already in use in D:\home\site\wwwroot\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 0
+
+2020-10-26T04:53:29+00:00 CRITICAL Cannot declare class HFE\WidgetsManager\Widgets\Cart, because the name is already in use in D:\home\site\wwwroot\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 0
+
+2020-10-26T05:05:40+00:00 CRITICAL Cannot declare class HFE\WidgetsManager\Widgets\Cart, because the name is already in use in D:\home\site\wwwroot\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php on line 0
+
