@@ -1,0 +1,13 @@
+name: Vital_Capacity
+title: Vital_Capacity
+username:
+account: syua0009
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3035906
+bundleId: 3797022
+url: https://syua0009.shinyapps.io/Vital_Capacity/
+when: 1603983718.04241
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: images/.DS_Store
